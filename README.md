@@ -173,7 +173,7 @@
 
 - Underwent an Army Attachment Camp organised by National Cadet Corps & 11 Madras Regiment at Pangode Trivandrum.
 
-- Attended AWS Summit 2012|India held at Chennai by Amazon Web Services in 2012 September.
+- Attended AWS Summit 2012 India, held at Chennai by Amazon Web Services in 2012 September.
 
 - Attended Winning with Windows Phone event organised by NOKIA at Chennai in 2014.  
 
