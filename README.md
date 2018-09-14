@@ -102,8 +102,7 @@
  
 
 ## TECHNICAL EXPERTISE 
-| | |
-|---|---|
+
 |**Computer Language** |C#, XAML, Objective C, WinJS,JavaScript, ExtJS, ReactJS.|
 |**Mobile Technologies**  |iOS, Windows Phone 8, Windows 8, Html5, IBM Mobile First, Sencha Touch, |
 |**Development Tools** |Visual Studio, XCode, Eclipse.|
@@ -161,19 +160,18 @@
 
 - Assisted in organising Scientia one day paper presentation competition by MCA Association FISAT. 
 
- - Volunteered in All Kerala FISAT Trophy Basket Ball tournament 2011. 
+- Volunteered in All Kerala FISAT Trophy Basket Ball tournament 2011. 
 
 - Batch Representative of JNVN Alumni Association. 
 
- 
 
 ## PROGRAMS/TRAINING ATTENDED 
 
- - Took part in Annual Training Camps organised by National Cadet Corps(NCC). 
+- Took part in Annual Training Camps organised by National Cadet Corps(NCC). 
 
 - Participated in Sahyadri Cycle Challenge 2007 an adventurous cycling program organised by National Cadet Corps (NCC) & Kalypso adventures Ernakulam. 
 
-- Underwent an Army Attachment Camp organised by National Cadet Corps & 11 Madras Regiment at Pangode Trivandrum. 
+- Underwent an Army Attachment Camp organised by National Cadet Corps & 11 Madras Regiment at Pangode Trivandrum.
 
 - Attended AWS Summit 2012|India held at Chennai by Amazon Web Services in 2012 September.
 
