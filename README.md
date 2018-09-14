@@ -103,14 +103,14 @@ iPhone/ iPad Developer. Created sample iPhone/iPad applications. Learned Objecti
 
 ### TECHNICAL EXPERTISE 
 
-|Computer Language |C#, XAML, Objective C, WinJS,JavaScript, ExtJS, ReactJS. |
-|Mobile Technologies  |iOS, Windows Phone 8, Windows 8, Html5, IBM Mobile First, Sencha Touch,  |
-|Development Tools |Visual Studio, XCode, Eclipse. |
-|Source Control |SVN, Git. |
-|Operating system |Windows, Debian Linux, Mac OSX |
-|Application Package |Microsoft Word, Power Point, Excel, |
-|Database| MS SQL Server, SQLite, AWS Dynamo DB, Indexed DB, MongoDB |
-|Frameworks  |Core Data, UIKit, Amazon AWS, Microsoft Bot framework, IBM Trusteer. |
+Computer Language |C#, XAML, Objective C, WinJS,JavaScript, ExtJS, ReactJS. 
+Mobile Technologies  |iOS, Windows Phone 8, Windows 8, Html5, IBM Mobile First, Sencha Touch, 
+Development Tools |Visual Studio, XCode, Eclipse.
+Source Control |SVN, Git. 
+Operating system |Windows, Debian Linux, Mac OSX 
+Application Package |Microsoft Word, Power Point, Excel
+Database| MS SQL Server, SQLite, AWS Dynamo DB, Indexed DB, MongoDB 
+Frameworks  |Core Data, UIKit, Amazon AWS, Microsoft Bot framework, IBM Trusteer. 
 
  
 
