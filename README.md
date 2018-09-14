@@ -103,7 +103,7 @@
 
 ## TECHNICAL EXPERTISE 
 
-Computer Language |C#, XAML, Objective C, WinJS,JavaScript, ExtJS, ReactJS.
+**Computer Language** |C#, XAML, Objective C, WinJS,JavaScript, ExtJS, ReactJS.
 ------|------
 **Mobile Technologies**  |iOS, Windows Phone 8, Windows 8, Html5, IBM Mobile First, Sencha Touch, 
 **Development Tools** |Visual Studio, XCode, Eclipse.
@@ -117,13 +117,12 @@ Computer Language |C#, XAML, Objective C, WinJS,JavaScript, ExtJS, ReactJS.
 
 ## SUMMARY OF QUALIFICATIONS   
 
-| Year | Course | University/Board | College/School | Mark |
+| **Year** | **Course** | **University/Board** | **College/School** | **Mark** |
 | ------ | ------ | ------ | ------ | ------ |
 |2008-11 |Master of Computer Application (MCA) |MG University Kottayam |Federal Institute of Science and Technology (FISAT), Angamaly |69.95% |
 |2005-08 |BSc. Computer Maintenance & Electronics |MG University Kottayam |Union Christian College, Aluva |66.50% |
 |2003-05 |XII – Science with Biology |Kerala Higher Secondary Board |Govt. H.S.S. Mookkannoor |70.66% |
 |2002-03 |X – SSLC |Kerala Department of General Education |Star Jesus H.S. Karukutty |79.33% |
-
 
 
 
@@ -177,7 +176,7 @@ Computer Language |C#, XAML, Objective C, WinJS,JavaScript, ExtJS, ReactJS.
 
 - Underwent an Army Attachment Camp organised by National Cadet Corps & 11 Madras Regiment at Pangode Trivandrum. 
 
-- Attended AWS Summit 2012|India held at Chennai by Amazon Web Services in 2012 September. 
+- Attended AWS Summit 2012|India held at Chennai by Amazon Web Services in 2012 September.
 
 - Attended Winning with Windows Phone event organised by NOKIA at Chennai in 2014.  
 
@@ -185,6 +184,4 @@ Computer Language |C#, XAML, Objective C, WinJS,JavaScript, ExtJS, ReactJS.
 
 - Attended Future Decoded 2017 event organised by Microsoft at Mumbai in 2017 February.  
 
-- Attended JSFOO 2017 event organised by Has Geeks at Bengaluru in 2017 September. 
-
- 
+- Attended JSFOO 2017 event organised by Has Geeks at Bengaluru in 2017 September.
