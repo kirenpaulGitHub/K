@@ -127,16 +127,11 @@ Microsoft Bot framework, IBM Trusteer. |
 
 ### SUMMARY OF QUALIFICATIONS   
 
-|Year |Course |University/Board |College/School |Mark |
+|#### Year |#### Course |#### University/Board |#### College/School |#### Mark |
 | ------ | ------ | ------ | ------ | ------ |
-|2008-11 |Master of Computer Application (MCA) |MG University Kottayam |Federal
- Institute of Science and Technology (FISAT), Angamaly |69.95% |
-
-|2005-08 |BSc. Computer Maintenance & Electronics |MG University Kottayam |
-Union Christian College, Aluva |66.50% |
-
+|2008-11 |Master of Computer Application (MCA) |MG University Kottayam |Federal Institute of Science and Technology (FISAT), Angamaly |69.95% |
+|2005-08 |BSc. Computer Maintenance & Electronics |MG University Kottayam |Union Christian College, Aluva |66.50% |
 |2003-05 |XII – Science with Biology |Kerala Higher Secondary Board |Govt. H.S.S. Mookkannoor |70.66% |
-
 |2002-03 |X – SSLC |Kerala Department of General Education |Star Jesus H.S. Karukutty |79.33% |
 
 
