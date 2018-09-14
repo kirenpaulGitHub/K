@@ -12,7 +12,7 @@ Educational Qualification:  Master of Computer Application (MCA).
 
 Seeking a position to utilise my skills and abilities in a reputed industry, to serve the organisation and to prove myself worthy of choice. 
 
-###EXPERIENCE 
+### EXPERIENCE 
 
 ##1. MobME Wireless Solutions Limited, Ernakulam, November 2014 – Present (3 years & 10 months) 
 
@@ -48,7 +48,7 @@ Trainee Software Engineer - October 2011 - March 2012 (6 months)
 
     iPhone/ iPad Developer. Created sample iPhone/iPad applications. Learned Objective C, MVC architecture.  
 
-###SKILLS & ABLITIES  
+### SKILLS & ABLITIES  
 
     6 years and 11 months of working experience in Software Design and Development.  
 
@@ -100,7 +100,7 @@ Trainee Software Engineer - October 2011 - March 2012 (6 months)
 
  
 
-###PROJECTS WORKED 
+### PROJECTS WORKED 
 
 1. Federal Bank FedMobile (Hybrid Application - iOS, Android and Windows Phone) 
 
@@ -326,7 +326,7 @@ XAML, C#
 
  
 
-###TECHNICAL EXPERTISE 
+### TECHNICAL EXPERTISE 
 
 |Computer Language |C#, XAML, Objective C, WinJS, JavaScript, ExtJS, ReactJS. |
 
@@ -346,7 +346,7 @@ XAML, C#
 
  
 
-###SUMMARY OF QUALIFICATIONS   
+### SUMMARY OF QUALIFICATIONS   
 
 |Year |Course |University/Board |College/School |Mark |
 | ------ | ------ | ------ | ------ | ------ |
@@ -361,7 +361,7 @@ XAML, C#
 
 
 
-###AWARDS AND ACHIEVEMENTS  
+### AWARDS AND ACHIEVEMENTS  
 
     Receive Best Cadet (2007) and Most Obedient Cadet (2008) award from the U.C. College National Cadet Corps(NCC) Unit. 
 
@@ -371,7 +371,7 @@ XAML, C#
 
     Got selected in Jawahar Navodaya Vidyalaya, Ernakulam entrance examination 5th standard. 
 
-###CO CURRICULAR ACTIVITIES 
+### CO CURRICULAR ACTIVITIES 
 
     Done job training in PC assembling, OS installation from Nest Systems at Ambattukavu Aluva.  
 
@@ -381,7 +381,7 @@ XAML, C#
 
     Attended in 2-day MobME Chat-Bot Hackathon and implemented a successful Chatbot with Microsoft Bot framework and Chat script. 
 
-###VOLUNTEER WORK 
+### VOLUNTEER WORK 
 
     Active role in National Cadet Corps (NCC) events at school and college level. 
 
@@ -403,7 +403,7 @@ XAML, C#
 
  
 
-###PROGRAMS/TRAINING ATTENDED 
+### PROGRAMS/TRAINING ATTENDED 
 
     Took part in Annual Training Camps organised by National Cadet Corps(NCC). 
 
