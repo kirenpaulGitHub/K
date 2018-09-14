@@ -1,57 +1,57 @@
 
 
-### Contact 
+## Contact 
 
 |Mobile | +91-80-8683-7337 |
 |------|------|
 |email|kirenpaul@outlook.com |
 |Address| Paracka House, South Attara, Mookkannoor P O Ernakulam, Kerala PIN 683 577|
-
  
 
-### OBJECTIVE 
+## OBJECTIVE 
 
-  Seeking a position to utilise my skills and abilities in a reputed industry, to serve the organisation and to prove myself worthy of choice. 
+  Seeking a position to utilise my skills and abilities in a reputed industry, to serve the organisation and to prove myself worthy of choice.
+ 
 
-### EXPERIENCE 
+## EXPERIENCE 
 
 #### 1. MobME Wireless Solutions Limited, Ernakulam, November 2014 – Present (3 years & 10 months) 
 
 ##### Senior Software Developer - October 2017 – Present (11 months) 
 
- Developing an in-house Product Compaz, deals with the customer behavior analysis using NodeJS, MongoDB and ReactJS. API design, Deployment, Sprint planning.  
+ >Developing an in-house Product Compaz, deals with the customer behavior analysis using NodeJS, MongoDB and ReactJS. API design, Deployment, Sprint planning.  
 
 ##### Team Lead - April 2016 - October 2017 (1 year 6 months) 
 
- Developing Hybrid Mobile Applications for financial organization, with IBM Mobile First (Worklight) and Sencha Touch. Project planning, Sprint planning.  
+ >Developing Hybrid Mobile Applications for financial organization, with IBM Mobile First (Worklight) and Sencha Touch. Project planning, Sprint planning.  
 
 ##### Hybrid Mobile Application Developer - April 2015 – April 2016 (1 year)   
 
- Developing Hybrid Mobile Applications with IBM Mobile First (Worklight) and Sencha Touch.  Released retail banking application in Windows, Android and Apple stores.  
+> Developing Hybrid Mobile Applications with IBM Mobile First (Worklight) and Sencha Touch.  Released retail banking application in Windows, Android and Apple stores.  
 
 ##### Windows Phone Developer - November 2014 - April 2015 (4 months) 
 
- Developing Windows Phone 8 Applications in C# XAML, mainly the mPassbook a mobile passbook solution for different banks. 
+ >Developing Windows Phone 8 Applications in C# XAML, mainly the mPassbook a mobile passbook solution for different banks. 
 
  
 
-#### 2. Cordiant Technologies, Ernakulam, October 2011 - November 2014 (3-year & 1 month)    
+##### 2. Cordiant Technologies, Ernakulam, October 2011 - November 2014 (3-year & 1 month)    
 
 ##### Platform Engineer - October 2013 - November 2014 (1 year 2 months)    
 
-Windows 8/ Windows Phone Application Developer. Developed Cordiant Learn and CLF e-School Windows Tablet/Desktop Application. Which is an E-learning Application. Using HTML5 CSS and WinJS Framework.  
+>Windows 8/ Windows Phone Application Developer. Developed Cordiant Learn and CLF e-School Windows Tablet/Desktop Application. Which is an E-learning Application. Using HTML5 CSS and WinJS Framework.  
 
 ##### Software Engineer - April 2012 - September 2013 (1 year 6 months)   
 
-Working Experience in Software design and development. Developed iPad application CMDN Cricket in Objective C. Which was Cordiant's First Apple Store Application. Released 2 versions. 
+>Working Experience in Software design and development. Developed iPad application CMDN Cricket in Objective C. Which was Cordiant's First Apple Store Application. Released 2 versions. 
 
 ##### Trainee Software Engineer - October 2011 - March 2012 (6 months)  
 
-iPhone/ iPad Developer. Created sample iPhone/iPad applications. Learned Objective C, MVC architecture.  
+>iPhone/ iPad Developer. Created sample iPhone/iPad applications. Learned Objective C, MVC architecture.  
 
-### SKILLS & ABLITIES  
+## SKILLS & ABLITIES  
 
- - 6 years and 11 months of working experience in Software Design and Development.  
+- 6 years and 11 months of working experience in Software Design and Development.  
 
  - Experience in developing NodeJS, MongoDB & ReactJS application.  
 
@@ -101,7 +101,7 @@ iPhone/ iPad Developer. Created sample iPhone/iPad applications. Learned Objecti
 
  
 
-### TECHNICAL EXPERTISE 
+## TECHNICAL EXPERTISE 
 
 Computer Language |C#, XAML, Objective C, WinJS,JavaScript, ExtJS, ReactJS. 
 ------|------
@@ -115,7 +115,7 @@ Frameworks  |Core Data, UIKit, Amazon AWS, Microsoft Bot framework, IBM Trusteer
 
  
 
-### SUMMARY OF QUALIFICATIONS   
+## SUMMARY OF QUALIFICATIONS   
 
 | Year | Course | University/Board | College/School | Mark |
 | ------ | ------ | ------ | ------ | ------ |
@@ -127,7 +127,7 @@ Frameworks  |Core Data, UIKit, Amazon AWS, Microsoft Bot framework, IBM Trusteer
 
 
 
-### AWARDS AND ACHIEVEMENTS  
+## AWARDS AND ACHIEVEMENTS  
 
 - Receive Best Cadet (2007) and Most Obedient Cadet (2008) award from the U.C. College National Cadet Corps(NCC) Unit. 
 
@@ -137,7 +137,7 @@ Frameworks  |Core Data, UIKit, Amazon AWS, Microsoft Bot framework, IBM Trusteer
 
 - Got selected in Jawahar Navodaya Vidyalaya, Ernakulam entrance examination 5th standard. 
 
-### CO CURRICULAR ACTIVITIES 
+## CO CURRICULAR ACTIVITIES 
 
 - Done job training in PC assembling, OS installation from Nest Systems at Ambattukavu Aluva.  
 
@@ -147,7 +147,7 @@ Frameworks  |Core Data, UIKit, Amazon AWS, Microsoft Bot framework, IBM Trusteer
 
 - Attended in 2-day MobME Chat-Bot Hackathon and implemented a successful Chatbot with Microsoft Bot framework and Chat script. 
 
-### VOLUNTEER WORK 
+## VOLUNTEER WORK 
 
 - Active role in National Cadet Corps (NCC) events at school and college level. 
 
@@ -169,7 +169,7 @@ Frameworks  |Core Data, UIKit, Amazon AWS, Microsoft Bot framework, IBM Trusteer
 
  
 
-### PROGRAMS/TRAINING ATTENDED 
+## PROGRAMS/TRAINING ATTENDED 
 
  - Took part in Annual Training Camps organised by National Cadet Corps(NCC). 
 
