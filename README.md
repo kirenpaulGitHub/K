@@ -2,9 +2,9 @@
 
 ### Contact 
 
-|Mobile |+91-80-8683-7337 |  
-|email|kirenpaul@outlook.com  | 
-|Address| Paracka House, South Attara, Mookkannoor P O Ernakulam, Kerala PIN 683 577 |
+Mobile | +91-80-8683-7337 
+email|kirenpaul@outlook.com 
+Address| Paracka House, South Attara, Mookkannoor P O Ernakulam, Kerala PIN 683 577
 
  
 
@@ -18,19 +18,19 @@
 
 ##### Senior Software Developer - October 2017 – Present (11 months) 
 
-    Developing an in-house Product Compaz, deals with the customer behavior analysis using NodeJS, MongoDB and ReactJS. API design, Deployment, Sprint planning.  
+ Developing an in-house Product Compaz, deals with the customer behavior analysis using NodeJS, MongoDB and ReactJS. API design, Deployment, Sprint planning.  
 
 ##### Team Lead - April 2016 - October 2017 (1 year 6 months) 
 
-    Developing Hybrid Mobile Applications for financial organization, with IBM Mobile First (Worklight) and Sencha Touch. Project planning, Sprint planning.  
+ Developing Hybrid Mobile Applications for financial organization, with IBM Mobile First (Worklight) and Sencha Touch. Project planning, Sprint planning.  
 
 ##### Hybrid Mobile Application Developer - April 2015 – April 2016 (1 year)   
 
-    Developing Hybrid Mobile Applications with IBM Mobile First (Worklight) and Sencha Touch.  Released retail banking application in Windows, Android and Apple stores.  
+ Developing Hybrid Mobile Applications with IBM Mobile First (Worklight) and Sencha Touch.  Released retail banking application in Windows, Android and Apple stores.  
 
 ##### Windows Phone Developer - November 2014 - April 2015 (4 months) 
 
-    Developing Windows Phone 8 Applications in C# XAML, mainly the mPassbook a mobile passbook solution for different banks. 
+ Developing Windows Phone 8 Applications in C# XAML, mainly the mPassbook a mobile passbook solution for different banks. 
 
  
 
@@ -38,15 +38,15 @@
 
 ##### Platform Engineer - October 2013 - November 2014 (1 year 2 months)    
 
-    Windows 8/ Windows Phone Application Developer. Developed Cordiant Learn and CLF e-School Windows Tablet/Desktop Application. Which is an E-learning Application. Using HTML5 CSS and WinJS Framework.  
+Windows 8/ Windows Phone Application Developer. Developed Cordiant Learn and CLF e-School Windows Tablet/Desktop Application. Which is an E-learning Application. Using HTML5 CSS and WinJS Framework.  
 
 ##### Software Engineer - April 2012 - September 2013 (1 year 6 months)   
 
-    Working Experience in Software design and development. Developed iPad application CMDN Cricket in Objective C. Which was Cordiant's First Apple Store Application. Released 2 versions. 
+Working Experience in Software design and development. Developed iPad application CMDN Cricket in Objective C. Which was Cordiant's First Apple Store Application. Released 2 versions. 
 
 ##### Trainee Software Engineer - October 2011 - March 2012 (6 months)  
 
-    iPhone/ iPad Developer. Created sample iPhone/iPad applications. Learned Objective C, MVC architecture.  
+iPhone/ iPad Developer. Created sample iPhone/iPad applications. Learned Objective C, MVC architecture.  
 
 ### SKILLS & ABLITIES  
 
@@ -103,31 +103,20 @@
 
 ### TECHNICAL EXPERTISE 
 
-|Computer Language |C#, XAML, Objective C, WinJS, 
-JavaScript, ExtJS, ReactJS. |
-
-|Mobile Technologies  |iOS, Windows Phone 8, Windows 8, Html5,
- IBM Mobile First, Sencha Touch,  |
-
+|Computer Language |C#, XAML, Objective C, WinJS,JavaScript, ExtJS, ReactJS. |
+|Mobile Technologies  |iOS, Windows Phone 8, Windows 8, Html5, IBM Mobile First, Sencha Touch,  |
 |Development Tools |Visual Studio, XCode, Eclipse. |
-
 |Source Control |SVN, Git. |
-
 |Operating system |Windows, Debian Linux, Mac OSX |
-
 |Application Package |Microsoft Word, Power Point, Excel, |
-
-|Database| MS SQL Server, SQLite, AWS Dynamo DB, 
-Indexed DB, MongoDB |
-
-|Frameworks  |Core Data, UIKit, Amazon AWS, 
-Microsoft Bot framework, IBM Trusteer. |
+|Database| MS SQL Server, SQLite, AWS Dynamo DB, Indexed DB, MongoDB |
+|Frameworks  |Core Data, UIKit, Amazon AWS, Microsoft Bot framework, IBM Trusteer. |
 
  
 
 ### SUMMARY OF QUALIFICATIONS   
 
-|#### Year |#### Course |#### University/Board |#### College/School |#### Mark |
+| Year | Course | University/Board | College/School | Mark |
 | ------ | ------ | ------ | ------ | ------ |
 |2008-11 |Master of Computer Application (MCA) |MG University Kottayam |Federal Institute of Science and Technology (FISAT), Angamaly |69.95% |
 |2005-08 |BSc. Computer Maintenance & Electronics |MG University Kottayam |Union Christian College, Aluva |66.50% |
