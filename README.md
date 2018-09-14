@@ -1,8 +1,4 @@
-# Kiren Paul 
 
-Senior Software Developer at Compaz  - MobME Wireless Solutions.  
-
-Educational Qualification:  Master of Computer Application (MCA). 
 
 ### Contact 
 
@@ -14,7 +10,7 @@ Educational Qualification:  Master of Computer Application (MCA).
 
 ### OBJECTIVE 
 
-Seeking a position to utilise my skills and abilities in a reputed industry, to serve the organisation and to prove myself worthy of choice. 
+ Seeking a position to utilise my skills and abilities in a reputed industry, to serve the organisation and to prove myself worthy of choice. 
 
 ### EXPERIENCE 
 
@@ -107,9 +103,11 @@ Seeking a position to utilise my skills and abilities in a reputed industry, to 
 
 ### TECHNICAL EXPERTISE 
 
-|Computer Language |C#, XAML, Objective C, WinJS, JavaScript, ExtJS, ReactJS. |
+|Computer Language |C#, XAML, Objective C, WinJS, 
+JavaScript, ExtJS, ReactJS. |
 
-|Mobile Technologies  |iOS, Windows Phone 8, Windows 8, Html5, IBM Mobile First, Sencha Touch,  |
+|Mobile Technologies  |iOS, Windows Phone 8, Windows 8, Html5,
+ IBM Mobile First, Sencha Touch,  |
 
 |Development Tools |Visual Studio, XCode, Eclipse. |
 
@@ -119,9 +117,11 @@ Seeking a position to utilise my skills and abilities in a reputed industry, to 
 
 |Application Package |Microsoft Word, Power Point, Excel, |
 
-|Database| MS SQL Server, SQLite, AWS Dynamo DB, Indexed DB, MongoDB |
+|Database| MS SQL Server, SQLite, AWS Dynamo DB, 
+Indexed DB, MongoDB |
 
-|Frameworks  |Core Data, UIKit, Amazon AWS, Microsoft Bot framework, IBM Trusteer. |
+|Frameworks  |Core Data, UIKit, Amazon AWS, 
+Microsoft Bot framework, IBM Trusteer. |
 
  
 
@@ -129,9 +129,11 @@ Seeking a position to utilise my skills and abilities in a reputed industry, to 
 
 |Year |Course |University/Board |College/School |Mark |
 | ------ | ------ | ------ | ------ | ------ |
-|2008-11 |Master of Computer Application (MCA) |MG University Kottayam |Federal Institute of Science and Technology (FISAT), Angamaly |69.95% |
+|2008-11 |Master of Computer Application (MCA) |MG University Kottayam |Federal
+ Institute of Science and Technology (FISAT), Angamaly |69.95% |
 
-|2005-08 |BSc. Computer Maintenance & Electronics |MG University Kottayam |Union Christian College, Aluva |66.50% |
+|2005-08 |BSc. Computer Maintenance & Electronics |MG University Kottayam |
+Union Christian College, Aluva |66.50% |
 
 |2003-05 |XII – Science with Biology |Kerala Higher Secondary Board |Govt. H.S.S. Mookkannoor |70.66% |
 
