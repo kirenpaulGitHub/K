@@ -139,7 +139,7 @@ Frameworks  |Core Data, UIKit, Amazon AWS, Microsoft Bot framework, IBM Trusteer
 
 ### CO CURRICULAR ACTIVITIES 
 
- - Done job training in PC assembling, OS installation from Nest Systems at Ambattukavu Aluva.  
+- Done job training in PC assembling, OS installation from Nest Systems at Ambattukavu Aluva.  
 
 - Presented seminar on Organic Light Emitting Diode, Global Positioning System, and Nature Inspired Computing, DNA Computing as part of academic work. 
 
@@ -155,7 +155,7 @@ Frameworks  |Core Data, UIKit, Amazon AWS, Microsoft Bot framework, IBM Trusteer
 
 - Volunteered the 2-cricket match held at Cochin international stadium Kaloor (India Vs England 2006 April & India Vs Australia 2007 October) 
 
- - Class representative of MCA 2008-11 Batch. 
+- Class representative of MCA 2008-11 Batch. 
 
 - Member of FISAT College Student’s Union (2009-10 & 2010-2011). 
 
@@ -165,7 +165,7 @@ Frameworks  |Core Data, UIKit, Amazon AWS, Microsoft Bot framework, IBM Trusteer
 
  - Volunteered in All Kerala FISAT Trophy Basket Ball tournament 2011. 
 
-    - Batch Representative of JNVN Alumni Association. 
+- Batch Representative of JNVN Alumni Association. 
 
  
 
@@ -177,7 +177,7 @@ Frameworks  |Core Data, UIKit, Amazon AWS, Microsoft Bot framework, IBM Trusteer
 
 - Underwent an Army Attachment Camp organised by National Cadet Corps & 11 Madras Regiment at Pangode Trivandrum. 
 
- - Attended AWS Summit 2012|India held at Chennai by Amazon Web Services in 2012 September. 
+- Attended AWS Summit 2012|India held at Chennai by Amazon Web Services in 2012 September. 
 
 - Attended Winning with Windows Phone event organised by NOKIA at Chennai in 2014.  
 
