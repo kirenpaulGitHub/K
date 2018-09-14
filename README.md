@@ -35,7 +35,7 @@
 
  
 
-##### 2. Cordiant Technologies, Ernakulam, October 2011 - November 2014 (3-year & 1 month)    
+#### 2. Cordiant Technologies, Ernakulam, October 2011 - November 2014 (3-year & 1 month)    
 
 ##### Platform Engineer - October 2013 - November 2014 (1 year 2 months)    
 
@@ -103,15 +103,15 @@
 
 ## TECHNICAL EXPERTISE 
 
-Computer Language |C#, XAML, Objective C, WinJS,JavaScript, ExtJS, ReactJS. 
+Computer Language |C#, XAML, Objective C, WinJS,JavaScript, ExtJS, ReactJS.
 ------|------
-Mobile Technologies  |iOS, Windows Phone 8, Windows 8, Html5, IBM Mobile First, Sencha Touch, 
-Development Tools |Visual Studio, XCode, Eclipse.
-Source Control |SVN, Git. 
-Operating system |Windows, Debian Linux, Mac OSX 
-Application Package |Microsoft Word, Power Point, Excel
-Database| MS SQL Server, SQLite, AWS Dynamo DB, Indexed DB, MongoDB 
-Frameworks  |Core Data, UIKit, Amazon AWS, Microsoft Bot framework, IBM Trusteer. 
+**Mobile Technologies**  |iOS, Windows Phone 8, Windows 8, Html5, IBM Mobile First, Sencha Touch, 
+**Development Tools** |Visual Studio, XCode, Eclipse.
+**Source Control** |SVN, Git. 
+**Operating system** |Windows, Debian Linux, Mac OSX 
+**Application Package** |Microsoft Word, Power Point, Excel
+**Database**| MS SQL Server, SQLite, AWS Dynamo DB, Indexed DB, MongoDB 
+**Frameworks**  |Core Data, UIKit, Amazon AWS, Microsoft Bot framework, IBM Trusteer. 
 
  
 
