@@ -1,4 +1,4 @@
-#Kiren Paul 
+# Kiren Paul 
 
 Senior Software Developer at Compaz  - MobME Wireless Solutions.  
 
@@ -14,7 +14,7 @@ Seeking a position to utilise my skills and abilities in a reputed industry, to 
 
 ### EXPERIENCE 
 
-##1. MobME Wireless Solutions Limited, Ernakulam, November 2014 – Present (3 years & 10 months) 
+## 1. MobME Wireless Solutions Limited, Ernakulam, November 2014 – Present (3 years & 10 months) 
 
 Senior Software Developer - October 2017 – Present (11 months) 
 
@@ -34,7 +34,7 @@ Windows Phone Developer - November 2014 - April 2015 (4 months)
 
  
 
-##2. Cordiant Technologies, Ernakulam, October 2011 - November 2014 (3-year & 1 month)    
+## 2. Cordiant Technologies, Ernakulam, October 2011 - November 2014 (3-year & 1 month)    
 
 Platform Engineer - October 2013 - November 2014 (1 year 2 months)    
 
@@ -99,231 +99,6 @@ Trainee Software Engineer - October 2011 - March 2012 (6 months)
     Have excellent analytical, communication and inter-personal skills. 
 
  
-
-### PROJECTS WORKED 
-
-1. Federal Bank FedMobile (Hybrid Application - iOS, Android and Windows Phone) 
-
-Title 
-	
-
-Federal Bank's FedMobile - Mobile banking application 
-
-Period 
-	
-
-2.5 years   
-
-Team Size 
-	
-
-3  
-
-Description 
-	
-
-FedMobile is Federal Bank’s official Mobile Banking application. FedMobile - is one of the fastest, secure and state-of-the-art Mobile Banking systems in the country with latest technology being employed for its deployment. 
-
-Role 
-	
-
-Team Lead 
-
-Technology 
-	
-
-Sencha Touch 2.4, IBM Mobile First Platform 7.0 
-
- 
-
-2. CMDN Cricket (iPad Application) 
-
-Title 
-	
-
-CMDN Cricket (versions 1.0 & 1.1) 
-
-Period 
-	
-
-9 months 
-
-Team Size 
-	
-
-2 
-
-Description 
-	
-
-CMDN cricket score caster makes cricket scorekeeping so easy with an iPad.  Any limited-over cricket match, be it an international, school or club match, can be scored ball-by-ball and published live on www.cmdn.com. CMDN cricket score caster transforms cricket scoring into an easy and pleasurable experience. With the simple calculator-like Score Caster interface, anyone with an elementary knowledge of the game can score a cricket match on an iPad. 
-
-Role 
-	
-
-System Study, Analysis, Database Design, Form Design, Coding. 
-
-Database 
-	
-
-Core Data 
-
-Front End 
-	
-
-Objective C 
-
- 
-
-3. Cordiant learn / Cordiant (Windows 8 Store Application) 
-
-Title 
-	
-
-Cordiant learn/Cordiant 
-
-Period 
-	
-
-14 months 
-
-Team Size 
-	
-
-3 
-
-Description 
-	
-
-Cordiant Learn is a cloud-based educational technology platform for delivering learning content on all possible digital devices. The content could be knowledge docs, text books (for Education), reference books, instructor notes, learning videos, worked-out solutions and more, made available on desktops, tablets and smart-phones. 
-
-Role 
-	
-
-System Study, Form Design, Coding Testing and Windows Store Submission. 
-
-Database 
-	
-
-Indexed DB 
-
-Front End 
-	
-
-WinJS, HTML5, CSS 
-
- 
-
-4. Cordiant (Windows Phone 8 Application) 
-
-Title 
-	
-
-Cordiant 
-
-Period 
-	
-
-months 
-
-Team Size 
-	
-
-3 
-
-Description 
-	
-
-The Cordiant Platform has been built with the vision to massively scale up individual and organisational performance by helping Knowledge Workers in a modern enterprise learn both formally and informally anyplace, anytime and by markedly enhancing contextual social collaboration and knowledge-sharing with each other. 
-
-Role 
-	
-
-System Study, Analysis, Form Design, Coding. 
-
-Front End 
-	
-
-XAML, C# 
-
- 
-
-5. FedBook (Windows Phone 8 Application) 
-
-Title 
-	
-
-FedBook (versions 2.0) 
-
-Period 
-	
-
-1 month 
-
-Team Size 
-	
-
-1 
-
-Description 
-	
-
-Federal Bank introduces FedBook - the convenient and secure mobile passbook for your Federal Bank Account. 
-
-Role 
-	
-
-System Study, Analysis, Database Design, Form Design, Coding. 
-
-Database 
-	
-
-LINQ to SQL 
-
-Front End 
-	
-
-XAML, C# 
-
- 
-
-6. mPassbook (Windows Phone 8 Application) 
-
-Title 
-	
-
-Union Bank mPassbook (versions 1.0), Baroda mPassbook (version 1.0.0.0), IDBI mPassbook (version 1.0.0.0) 
-
-Period 
-	
-
-1 month for each project. 
-
-Team Size 
-	
-
-1 
-
-Description 
-	
-
-mPassbook is a smartphone app which gives you access to all your accounts, linked with your registered mobile number in a new way. Access, Manage, Search through your transactions. Shows ATM locations using Bing Maps. Expense manager for tracking expenses.  
-
-Role 
-	
-
-System Study, Analysis, Database Design, Form Design, Localization, Coding. 
-
-Database 
-	
-
-LINQ to SQL 
-
-Front End 
-	
-
-XAML, C# 
-
  
 
 ### TECHNICAL EXPERTISE 
@@ -363,62 +138,62 @@ XAML, C#
 
 ### AWARDS AND ACHIEVEMENTS  
 
-    Receive Best Cadet (2007) and Most Obedient Cadet (2008) award from the U.C. College National Cadet Corps(NCC) Unit. 
+-Receive Best Cadet (2007) and Most Obedient Cadet (2008) award from the U.C. College National Cadet Corps(NCC) Unit. 
 
-    Received National Cadet Corps(NCC) A, B and C Certificate. 
+-Received National Cadet Corps(NCC) A, B and C Certificate. 
 
-    Acquired first place in the quiz competition organised by Labour India at high school level. 
+-Acquired first place in the quiz competition organised by Labour India at high school level. 
 
-    Got selected in Jawahar Navodaya Vidyalaya, Ernakulam entrance examination 5th standard. 
+-Got selected in Jawahar Navodaya Vidyalaya, Ernakulam entrance examination 5th standard. 
 
 ### CO CURRICULAR ACTIVITIES 
 
-    Done job training in PC assembling, OS installation from Nest Systems at Ambattukavu Aluva.  
+     - Done job training in PC assembling, OS installation from Nest Systems at Ambattukavu Aluva.  
 
-    Presented seminar on Organic Light Emitting Diode, Global Positioning System, and Nature Inspired Computing, DNA Computing as part of academic work. 
+    - Presented seminar on Organic Light Emitting Diode, Global Positioning System, and Nature Inspired Computing, DNA Computing as part of academic work. 
 
-    Attended a 3-day workshop organised by IRACC FISAT on Embedded Systems design. 
+    - Attended a 3-day workshop organised by IRACC FISAT on Embedded Systems design. 
 
-    Attended in 2-day MobME Chat-Bot Hackathon and implemented a successful Chatbot with Microsoft Bot framework and Chat script. 
+    - Attended in 2-day MobME Chat-Bot Hackathon and implemented a successful Chatbot with Microsoft Bot framework and Chat script. 
 
 ### VOLUNTEER WORK 
 
-    Active role in National Cadet Corps (NCC) events at school and college level. 
+    - Active role in National Cadet Corps (NCC) events at school and college level. 
 
-    Member of the steering committee of CAWAT Camp organised by NCC Aluva Battalion on 2007 December at SSUS Kalady.  
+    - Member of the steering committee of CAWAT Camp organised by NCC Aluva Battalion on 2007 December at SSUS Kalady.  
 
-    Volunteered the 2-cricket match held at Cochin international stadium Kaloor (India Vs England 2006 April & India Vs Australia 2007 October) 
+    - Volunteered the 2-cricket match held at Cochin international stadium Kaloor (India Vs England 2006 April & India Vs Australia 2007 October) 
 
-    Class representative of MCA 2008-11 Batch. 
+    - Class representative of MCA 2008-11 Batch. 
 
-    Member of FISAT College Student’s Union (2009-10 & 2010-2011). 
+    - Member of FISAT College Student’s Union (2009-10 & 2010-2011). 
 
-    Member of M.G. University Student’s General Assembly (2009-2010 & 2010-2011). 
+    - Member of M.G. University Student’s General Assembly (2009-2010 & 2010-2011). 
 
-    Assisted in organising Scientia one day paper presentation competition by MCA Association FISAT. 
+    - Assisted in organising Scientia one day paper presentation competition by MCA Association FISAT. 
 
-    Volunteered in All Kerala FISAT Trophy Basket Ball tournament 2011. 
+    - Volunteered in All Kerala FISAT Trophy Basket Ball tournament 2011. 
 
-    Batch Representative of JNVN Alumni Association. 
+    - Batch Representative of JNVN Alumni Association. 
 
  
 
 ### PROGRAMS/TRAINING ATTENDED 
 
-    Took part in Annual Training Camps organised by National Cadet Corps(NCC). 
+    - Took part in Annual Training Camps organised by National Cadet Corps(NCC). 
 
-    Participated in Sahyadri Cycle Challenge 2007 an adventurous cycling program organised by National Cadet Corps (NCC) & Kalypso adventures Ernakulam. 
+    - Participated in Sahyadri Cycle Challenge 2007 an adventurous cycling program organised by National Cadet Corps (NCC) & Kalypso adventures Ernakulam. 
 
-    Underwent an Army Attachment Camp organised by National Cadet Corps & 11 Madras Regiment at Pangode Trivandrum. 
+    - Underwent an Army Attachment Camp organised by National Cadet Corps & 11 Madras Regiment at Pangode Trivandrum. 
 
-    Attended AWS Summit 2012|India held at Chennai by Amazon Web Services in 2012 September. 
+    - Attended AWS Summit 2012|India held at Chennai by Amazon Web Services in 2012 September. 
 
-    Attended Winning with Windows Phone event organised by NOKIA at Chennai in 2014.  
+    - Attended Winning with Windows Phone event organised by NOKIA at Chennai in 2014.  
 
-    Attended Sencha Road Show 2015 event organised by Sencha at Bengaluru in 2015 November.  
+    - Attended Sencha Road Show 2015 event organised by Sencha at Bengaluru in 2015 November.  
 
-    Attended Future Decoded 2017 event organised by Microsoft at Mumbai in 2017 February.  
+    - Attended Future Decoded 2017 event organised by Microsoft at Mumbai in 2017 February.  
 
-    Attended JSFOO 2017 event organised by Has Geeks at Bengaluru in 2017 September. 
+    - Attended JSFOO 2017 event organised by Has Geeks at Bengaluru in 2017 September. 
 
  
