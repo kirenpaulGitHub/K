@@ -14,37 +14,37 @@ Seeking a position to utilise my skills and abilities in a reputed industry, to 
 
 ### EXPERIENCE 
 
-## 1. MobME Wireless Solutions Limited, Ernakulam, November 2014 – Present (3 years & 10 months) 
+#### 1. MobME Wireless Solutions Limited, Ernakulam, November 2014 – Present (3 years & 10 months) 
 
-Senior Software Developer - October 2017 – Present (11 months) 
+##### Senior Software Developer - October 2017 – Present (11 months) 
 
     Developing an in-house Product Compaz, deals with the customer behavior analysis using NodeJS, MongoDB and ReactJS. API design, Deployment, Sprint planning.  
 
-Team Lead - April 2016 - October 2017 (1 year 6 months) 
+##### Team Lead - April 2016 - October 2017 (1 year 6 months) 
 
     Developing Hybrid Mobile Applications for financial organization, with IBM Mobile First (Worklight) and Sencha Touch. Project planning, Sprint planning.  
 
-Hybrid Mobile Application Developer - April 2015 – April 2016 (1 year)   
+##### Hybrid Mobile Application Developer - April 2015 – April 2016 (1 year)   
 
     Developing Hybrid Mobile Applications with IBM Mobile First (Worklight) and Sencha Touch.  Released retail banking application in Windows, Android and Apple stores.  
 
-Windows Phone Developer - November 2014 - April 2015 (4 months) 
+##### Windows Phone Developer - November 2014 - April 2015 (4 months) 
 
     Developing Windows Phone 8 Applications in C# XAML, mainly the mPassbook a mobile passbook solution for different banks. 
 
  
 
-## 2. Cordiant Technologies, Ernakulam, October 2011 - November 2014 (3-year & 1 month)    
+#### 2. Cordiant Technologies, Ernakulam, October 2011 - November 2014 (3-year & 1 month)    
 
-Platform Engineer - October 2013 - November 2014 (1 year 2 months)    
+##### Platform Engineer - October 2013 - November 2014 (1 year 2 months)    
 
     Windows 8/ Windows Phone Application Developer. Developed Cordiant Learn and CLF e-School Windows Tablet/Desktop Application. Which is an E-learning Application. Using HTML5 CSS and WinJS Framework.  
 
-Software Engineer - April 2012 - September 2013 (1 year 6 months)   
+##### Software Engineer - April 2012 - September 2013 (1 year 6 months)   
 
     Working Experience in Software design and development. Developed iPad application CMDN Cricket in Objective C. Which was Cordiant's First Apple Store Application. Released 2 versions. 
 
-Trainee Software Engineer - October 2011 - March 2012 (6 months)  
+##### Trainee Software Engineer - October 2011 - March 2012 (6 months)  
 
     iPhone/ iPad Developer. Created sample iPhone/iPad applications. Learned Objective C, MVC architecture.  
 
