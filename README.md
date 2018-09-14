@@ -1,8 +1,7 @@
 
 
 ## Contact 
-|||
-|------|------|
+
 |**Mobile** | +91-80-8683-7337 |
 |**Email**|kirenpaul@outlook.com |
 |**Address**| Paracka House, South Attara, Mookkannoor P O Ernakulam, Kerala PIN 683 577|
@@ -103,8 +102,6 @@
  
 
 ## TECHNICAL EXPERTISE 
-|||
-|------|------|
 **Computer Language** |C#, XAML, Objective C, WinJS,JavaScript, ExtJS, ReactJS.
 **Mobile Technologies**  |iOS, Windows Phone 8, Windows 8, Html5, IBM Mobile First, Sencha Touch, 
 **Development Tools** |Visual Studio, XCode, Eclipse.
