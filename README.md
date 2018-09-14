@@ -4,7 +4,11 @@ Senior Software Developer at Compaz  - MobME Wireless Solutions.
 
 Educational Qualification:  Master of Computer Application (MCA). 
 
-+91-80-8683-7337 |  kirenpaul@outlook.com  |  Paracka House, South Attara, Mookkannoor P O Ernakulam, Kerala PIN 683 577 
+### Contact 
+
+|Mobile |+91-80-8683-7337 |  
+|email|kirenpaul@outlook.com  | 
+|Address| Paracka House, South Attara, Mookkannoor P O Ernakulam, Kerala PIN 683 577 |
 
  
 
