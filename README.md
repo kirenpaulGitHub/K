@@ -10,7 +10,7 @@
 
 ## OBJECTIVE 
 
-  `Seeking a position to utilise my skills and abilities in a reputed industry, to serve the organisation and to prove myself worthy of choice.`
+  Seeking a position to utilise my skills and abilities in a reputed industry, to serve the organisation and to prove myself worthy of choice.
  
 
 ## EXPERIENCE 
