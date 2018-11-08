@@ -17,7 +17,11 @@
 
 #### 1. MobME Wireless Solutions Limited, Ernakulam, November 2014 – Present (3 years & 10 months) 
 
-##### Senior Software Developer - October 2017 – Present (11 months) 
+#####  Engeering Lead - September 2018 – Present (2 months) 
+
+ >Developing an in-house Product Compaz, deals with the customer behavior analysis using NodeJS, MongoDB and ReactJS. API design, Deployment, Sprint planning.  
+
+##### Senior Software Developer - October 2017 – September 2018 (11 months) 
 
  >Developing an in-house Product Compaz, deals with the customer behavior analysis using NodeJS, MongoDB and ReactJS. API design, Deployment, Sprint planning.  
 
