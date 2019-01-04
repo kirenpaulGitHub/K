@@ -15,9 +15,9 @@
 
 ## EXPERIENCE 
 
-#### 1. MobME Wireless Solutions Limited, Ernakulam, November 2014 – Present (3 years & 10 months) 
+#### 1. MobME Wireless Solutions Limited, Ernakulam, November 2014 – Present (4 years & 2 months) 
 
-#####  Engineering Lead - September 2018 – Present (2 months) 
+#####  Engineering Lead - September 2018 – Present (4 months) 
 
  >Developing an in-house Product Compaz, deals with the customer behavior analysis using NodeJS, MongoDB and ReactJS. API design, Deployment, Sprint planning.  
 
