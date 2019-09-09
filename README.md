@@ -4,7 +4,6 @@
 
 |**Mobile** | +91-80-8683-7337 |
 |**Email**|kirenpaul@outlook.com |
-|**Address**| Paracka House, South Attara, Mookkannoor P O Ernakulam, Kerala PIN 683 577|
 
  
 
