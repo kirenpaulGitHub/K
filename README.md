@@ -1,5 +1,5 @@
 # Kiren Paul
-+66-084-020-0285 | kirenpaul@outlook.com | GitHub: [GitHub Profile](https://github.com/kirenpaul) | LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kirenpaul/)
++66-084-020-0285 | kirenpaul@outlook.com | GitHub: [GitHub Profile](https://github.com/paulkiren) | LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kirenpaul/)
 
 ## Summary
 Senior Full Stack Developer with nearly 12 years of experience in software design and development, specializing in the Banking Domain for over 5 years. Proven expertise in developing mobile and web applications for various platforms.
