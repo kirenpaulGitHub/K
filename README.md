@@ -3,8 +3,8 @@
 ### Expert Full Stack Developer | Allianz Technology (Thailand)
 
 **Educational Qualification:** Master of Computer Application (MCA)  
-**Contact:** +91-80-8683-7337, +66-084-020-0285 | kirenpaul@outlook.com  
-**GitHub:** [GitHub Profile](#) | **LinkedIn:** [LinkedIn Profile](#)
+<!-- **Contact:** +91-80-8683-7337, +66-084-020-0285 | kirenpaul@outlook.com  -->
+**GitHub:** [GitHub Profile](https://github.com/paulkiren) | **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kirenpaul/)
 
 ## SUMMARY
 
