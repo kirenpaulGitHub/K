@@ -15,7 +15,7 @@ Highly motivated and results-oriented Full Stack Developer with 12+ years of exp
 ### Allianz Technology, Bangkok Thailand
 
 **Expert Full Stack Developer - Hexalite**  
-_November 2023 – present (11 months)_
+_November 2023 – present (1 Year & 1month)_
 
 - Led the development of a cross-platform mobile application (React Native) and web application (Angular) with Spring Boot backend.
 - Prepared high-level design, developed, unit tested, and planned sprints.
