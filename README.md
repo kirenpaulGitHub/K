@@ -217,7 +217,7 @@ PROGRAMS/TRAINING ATTENDED
 *   Attended Annual Training Camps organized by the National Cadet Corps (NCC).
 *   Participated in the Sahyadri Cycle Challenge 2007 organized by NCC & Kalypso Adventures.
 *   Attended the Army Attachment Camp organized by NCC & 11 Madras Regiment.
-*   Participated in the AWS Summit 2012|India held in Chennai.
+*   Participated in the AWS Summit 2012 India held in Chennai.
 *   Attended the "Winning with the Windows Phone" event organized by NOKIA.
 *   Participated in the Sencha Road Show 2015 event organized by Sencha.
 *   Attended the Future Decoded 2017 event organized by Microsoft.
