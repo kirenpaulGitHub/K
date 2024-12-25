@@ -9,7 +9,7 @@ Kiren Paul
 SUMMARY
 -------
 
-Highly motivated and results-oriented Full Stack Developer with over 12 years of experience in building secure, scalable mobile and web applications across diverse domains, including banking and e-learning. Proven track record in leading and managing teams, delivering projects on time and within budget, and consistently exceeding stakeholder expectations. Seeking a challenging role to leverage expertise in React Native, Ionic, Angular, Spring Boot, NodeJS, and other advanced technologies to contribute to a dynamic team.
+Experienced Full Stack Developer with 12+ years in creating secure and scalable mobile and web applications across domains like banking and e-learning. Skilled in team leadership, project delivery, and working with technologies such as React Native, Ionic, Angular, Spring Boot, and NodeJS. Looking to bring expertise to a collaborative team and drive impactful results.
 
 PROFESSIONAL EXPERIENCE
 -----------------------
@@ -19,13 +19,13 @@ PROFESSIONAL EXPERIENCE
 **Expert Full Stack Developer - Hexalite**  
 _November 2023 – present (1 Year & 1 month)_
 
-*   Led the development of a cross-platform mobile application (React Native) and web application (Angular) with a Spring Boot backend.
-*   Prepared high-level designs, developed, unit tested, and planned sprints.
+*   Spearheaded the development of a cross-platform mobile application (React Native) and web application (Angular) with a Spring Boot backend.
+*   Prepared high-level designs, implemented, unit tested, and planned sprints.
 
 **Senior Full Stack Developer - Hexalite**  
 _August 2020 – October 2023 (3 years & 3 months)_
 
-*   Developed a mobile application in React Native, a web application on Angular, and a backend on Spring Boot.
+*   Engineered a mobile application in React Native, a web application on Angular, and a backend on Spring Boot.
 *   Mastered Kubernetes deployment using Helm charts, ensuring smooth production rollouts and reducing downtime.
 
 ### Arahant (Thailand) CO., LTD, Bangkok Thailand
@@ -33,7 +33,7 @@ _August 2020 – October 2023 (3 years & 3 months)_
 **Senior Developer**  
 _August 2019 – June 2020 (10 months)_
 
-*   Developed the user interface of a mobile application for a financial organization in Bangkok using AngularJS and Ionic.
+*   Crafted the user interface of a mobile application for a financial organization in Bangkok using AngularJS and Ionic.
 *   Conducted unit testing and sprint planning.
 
 ### MobME Wireless Solutions Limited, Ernakulam
@@ -103,7 +103,7 @@ EDUCATION
 ---------
 
 *   **Master of Computer Application (MCA)** - MG University Kottayam (2008-2011) - 69.95%
-*   **BSc. Computer Maintenance & Electronics** - MG University Kottayam (2005-2008) - 66.50%
+*   **Bachelor of Science in Computer Maintenance & Electronics** - MG University Kottayam (2005-2008) - 66.50%
 *   **XII – Science with Biology** - Kerala Higher Secondary Board (2003-2005) - 70.66%
 *   **X – SSLC** - Kerala Department of General Education (2002-2003) - 79.33%
 
@@ -112,7 +112,7 @@ PROJECTS
 
 ### Hexalite Application
 
-*   **Duration:** 4 Years 2 Months
+*   **Duration:** 4 Years 3 Months
 *   **Team Size:** 24
 *   **Description:** A core platform for Allianz Group's roadside assistance services.
 *   **Role:** High-level design, backlog creation, UI design, service migration to Australian servers.
@@ -166,7 +166,7 @@ PROJECTS
 ### Cordiant
 
 *   **Type:** Windows Phone App
-*   **Duration:** \[Specify Duration\]
+*   **Duration:** 8 Months
 *   **Team Size:** 3
 *   **Description:** A performance enhancement platform for individuals and organizations.
 *   **Role:** Conducted system study and implemented features.
@@ -184,7 +184,7 @@ PROJECTS
 ### mPassbook
 
 *   **Type:** Windows Phone App
-*   **Duration:** 1 Month Each
+*   **Duration:** 1-2 Months Each
 *   **Team Size:** 1
 *   **Description:** Allows users to access all linked accounts via a registered mobile number.
 *   **Role:** System study and application development.
@@ -193,33 +193,33 @@ PROJECTS
 AWARDS AND ACHIEVEMENTS
 -----------------------
 
-*   Honored with the Sprint Superstar Award by Allianz Parteners in 2024, recognizing exceptional dedication and contributions.
-*   Awarded the Best Leader Pinnacle Award by Allianz Technology Thailand in Q3 2024.
-*   Won first prize in the hackathon organized by Allianz Technology Thailand in 2023.
-*   Awarded the Best Asset Pinnacle Award by Allianz Technology Thailand in Q2 2022.
-*   Honored with the Best Cadet (2007) and Most Obedient Cadet (2008) awards by U.C. College National Cadet Corps (NCC) Unit.
-*   Achieved National Cadet Corps (NCC) A, B, and C Certificates.
-*   Secured first place in the high school level quiz competition organized by Labor India.
-*   Successfully passed the entrance examination for Jawahar Navodaya Vidyalaya, Ernakulam in the 5th standard.
+*  Recognized with the Sprint Superstar Award by Allianz Partners in 2024 for outstanding dedication and contributions.
+*  Received the Best Leader Pinnacle Award from Allianz Technology Thailand in Q3 2024.
+*  Secured first place in the hackathon hosted by Allianz Technology Thailand in 2023.
+*  Honored with the Best Asset Pinnacle Award by Allianz Technology Thailand in Q2 2022.
+*  Earned the titles of Best Cadet (2007) and Most Obedient Cadet (2008) from U.C. College NCC Unit.
+*  Accomplished the National Cadet Corps (NCC) A, B, and C certifications.
+*  Achieved top position in the high school quiz competition organized by Labor India.
+*  Successfully qualified in the entrance exam for Jawahar Navodaya Vidyalaya, Ernakulam, during the 5th standard.
 
 CO-CURRICULAR ACTIVITIES
 ------------------------
 
-*   Completed job training in PC assembly and OS installation at Nest Systems.
-*   Delivered seminars on various topics as part of academic coursework.
-*   Participated in workshops on Embedded Systems design and Chat-Bot Hackathon.
-*   Actively participated in National Cadet Corps (NCC) events.
-*   Volunteered in numerous events and competitions.
+*  Completed practical training in PC assembly and OS installation at Nest Systems.
+*  Presented academic seminars on various technical topics.
+*  Engaged in workshops on Embedded Systems design and participated in a Chat-Bot Hackathon.
+*  Actively contributed to National Cadet Corps (NCC) activities and initiatives.
+*  Volunteered for multiple events and competitions, demonstrating strong organizational skills.
 
 PROGRAMS/TRAINING ATTENDED
 --------------------------
 
-*   Attended Annual Training Camps organized by the National Cadet Corps (NCC).
-*   Participated in the Sahyadri Cycle Challenge 2007 organized by NCC & Kalypso Adventures.
-*   Attended the Army Attachment Camp organized by NCC & 11 Madras Regiment.
-*   Participated in the AWS Summit 2012 India held in Chennai.
-*   Attended the "Winning with the Windows Phone" event organized by NOKIA.
-*   Participated in the Sencha Road Show 2015 event organized by Sencha.
-*   Attended the Future Decoded 2017 event organized by Microsoft.
-*   Participated in the JSFOO 2017 event organized by Has Geeks.
-*   Attended the Thailand GraphQL workshop organized by Agoda in 2023.
+*  Participated in Annual Training Camps conducted by the National Cadet Corps (NCC).
+*  Took part in the Sahyadri Cycle Challenge 2007, co-hosted by NCC and Kalypso Adventures.
+*  Engaged in the Army Attachment Camp with NCC and the 11 Madras Regiment.
+*  Attended the AWS Summit 2012 India in Chennai.
+*  Joined the "Winning with the Windows Phone" event arranged by NOKIA.
+*  Participated in the Sencha Road Show 2015 hosted by Sencha.
+*  Took part in the Future Decoded 2017 event organized by Microsoft.
+*  Engaged in the JSFOO 2017 conference facilitated by Has Geeks.
+*  Attended the Thailand GraphQL workshop hosted by Agoda in 2023.
