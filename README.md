@@ -4,7 +4,7 @@
 
 **Educational Qualification:** Master of Computer Application (MCA)  
 **Contact:** +66-084-020-0285 | <kirenpaul@outlook.com>  
-**GitHub:** [GitHub Profile](https://github.com/paulkiren) | **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kirenpaul/)
+**GitHub:** [GitHub Profile](https://github.com/paulkiren) **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/kirenpaul/)
 
 ## SUMMARY
 
@@ -12,71 +12,71 @@ Experienced Full Stack Developer with over 12 years in creating secure and scala
 
 ## PROFESSIONAL EXPERIENCE
 
-### Allianz Technology | Bangkok, Thailand
+### Allianz Technology, Bangkok, Thailand
 
-**Expert Developer** | _Nov 2023 - Present (1 yr 2 mos)_
+**Expert Developer**  _Nov 2023 - Present (1 yr 2 mos)_
 
 - Spearheaded the development of mobile (React Native) and web (Angular) applications with a Spring Boot backend.
 - Designed high-level solutions, executed unit testing, and managed sprint planning.
 
-**Senior Developer** | _Aug 2020 - Feb 2024 (3 yrs 7 mos)_
+**Senior Developer**  _Aug 2020 - Feb 2024 (3 yrs 7 mos)_
 
 - Led the development of scalable mobile and web applications.
 - Integrated backend services and optimized cloud deployment strategies.
 - Enhanced application reliability by streamlining deployment pipelines.
 - Gained hands-on experience with Kubernetes deployment using Helm charts for seamless production rollouts.
 
-### TMB Bank PCL (Arahant (Thailand) CO. LTD) | Bangkok, Thailand
+### TMB Bank PCL (Arahant (Thailand) CO. LTD), Bangkok, Thailand
 
-**Senior Developer** | _Aug 2019 - Jun 2020 (11 mos)_
+**Senior Developer**  _Aug 2019 - Jun 2020 (11 mos)_
 
 - Designed and implemented the user interface for a financial mobile application using AngularJS and Ionic.
 - Conducted unit testing and participated in sprint planning for feature releases.
 
-### MobME Wireless Solutions Limited | Ernakulam, India
+### MobME Wireless Solutions Limited, Ernakulam, India
 
-**Development Team Lead** | _Sep 2018 - Aug 2019 (1 yr)_
+**Development Team Lead**  _Sep 2018 - Aug 2019 (1 yr)_
 
 - Managed a team developing retail and corporate banking applications, along with mobile passbook solutions using IBM Mobile First, Ruby on Rails, and Sencha Touch.
 - Oversaw project and sprint planning activities.
 
-**Engineering Lead** | _Sep 2018 - Aug 2019 (1 yr)_
+**Engineering Lead**  _Sep 2018 - Aug 2019 (1 yr)_
 
 - Developed hybrid mobile applications for financial organizations, employing IBM Mobile First and Sencha Touch.
 - Led technical discussions and release planning.
 
-**Senior Software Developer** | _Oct 2017 - Aug 2019 (1 yr 11 mos)_
+**Senior Software Developer**  _Oct 2017 - Aug 2019 (1 yr 11 mos)_
 
 - Designed and built Compaz, an in-house product for customer behavior analysis using NodeJS, MongoDB, and ReactJS.
 - Conducted API design and deployment while managing sprint planning.
 
-**Team Lead** | _Apr 2016 - Aug 2019 (3 yrs 5 mos)_
+**Team Lead**  _Apr 2016 - Aug 2019 (3 yrs 5 mos)_
 
 - Led the development of hybrid mobile applications using IBM Mobile First and Sencha Touch.
 - Collaborated with cross-functional teams for timely project delivery.
 
-**Hybrid Mobile Application Developer** | _Apr 2015 - Apr 2016 (1 yr 1 mo)_
+**Hybrid Mobile Application Developer**  _Apr 2015 - Apr 2016 (1 yr 1 mo)_
 
 - Delivered hybrid mobile banking applications across Windows, Android, and iOS platforms.
 - Implemented core banking solutions with IBM Mobile First and Sencha Touch.
 
-**Windows Phone Developer** | _Nov 2014 - Apr 2015 (6 mos)_
+**Windows Phone Developer**  _Nov 2014 - Apr 2015 (6 mos)_
 
 - Developed Windows Phone 8 applications in C# and XAML, including a mobile passbook app for various banks.
 
-### Cordiant Technologies | Ernakulam, India
+### Cordiant Technologies, Ernakulam, India
 
-**Platform Engineer** | _May 2014 - Nov 2014 (7 mos)_
+**Platform Engineer**  _May 2014 - Nov 2014 (7 mos)_
 
 - Developed Windows 8 and Windows Phone 8 applications using HTML5, JavaScript, and WinJS.
 - Contributed to platform enhancements and feature delivery.
 
-**Software Engineer** | _Apr 2012 - Sep 2013 (1 yr 6 mos)_
+**Software Engineer**  _Apr 2012 - Sep 2013 (1 yr 6 mos)_
 
 - Designed and developed iPad applications using Objective-C.
 - Delivered Cordiant's first Apple Store application.
 
-**Trainee Software Engineer** | _Oct 2011 - Mar 2012 (6 mos)_
+**Trainee Software Engineer**  _Oct 2011 - Mar 2012 (6 mos)_
 
 - Built sample iPhone/iPad applications while learning Objective-C and MVC architecture.
 
@@ -96,10 +96,10 @@ Experienced Full Stack Developer with over 12 years in creating secure and scala
 
 ## EDUCATION
 
-- **Master of Computer Application (MCA)** | MG University, Kottayam | 2008 - 2011 | 69.95%
-- **Bachelor of Science in Computer Maintenance & Electronics** | MG University, Kottayam | 2005 - 2008 | 66.50%
-- **Higher Secondary** | Kerala Higher Secondary Board | 2003 - 2005 | 70.66%
-- **Secondary School** | Kerala Department of General Education | 2002 - 2003 | 79.33%
+- **Master of Computer Application (MCA)**, MG University, Kottayam, 2008 - 2011, 69.95%
+- **Bachelor of Science in Computer Maintenance & Electronics**, MG University, Kottayam, 2005 - 2008, 66.50%
+- **Higher Secondary**, Kerala Higher Secondary Board, 2003 - 2005, 70.66%
+- **Secondary School**, Kerala Department of General Education, 2002 - 2003, 79.33%
 
 ## PROJECTS
 
@@ -142,7 +142,7 @@ A cricket scorekeeping app for iPad, developed in nine months by a two-member te
 ## AWARDS AND ACHIEVEMENTS
 
 - Recognized with the Sprint Superstar Award by Allianz Partners in 2024 for outstanding dedication and contributions.
-- Received the Best Leader Pinnacle Award from Allianz Technology Thailand in Q3 2024.
+- Received the Best Leader Pinnacle Award from Allianz Technology Thailand in Q1 2024.
 - Secured first place in the hackathon hosted by Allianz Technology Thailand in 2023.
 - Honored with the Best Asset Pinnacle Award by Allianz Technology Thailand in Q2 2022.
 - Earned the titles of Best Cadet (2007) and Most Obedient Cadet (2008) from U.C. College NCC Unit.
