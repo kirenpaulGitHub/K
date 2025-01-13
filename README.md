@@ -107,7 +107,7 @@ Full-Stack Developer with 12+ years of experience building high-performing, secu
 
 ## PROJECTS
 
- **Hexalite Application :** This core platform, developed over 4 years and 3 months with a team of 24, supports Allianz Group's roadside assistance services. I contributed to high-level design, backlog creation, UI design, and the migration of services to Australian servers. Technologies used included Angular, React Native, and Spring Boot.
+ - **Hexalite Application :** This core platform, developed over 4 years and 3 months with a team of 24, supports Allianz Group's roadside assistance services. I contributed to high-level design, backlog creation, UI design, and the migration of services to Australian servers. Technologies used included Angular, React Native, and Spring Boot.
 
 - **ME by TMB (Thai Military Bank) :** A hybrid mobile banking app for iOS and Android, designed to provide secure and user-friendly financial management. Created over 10 months with a team of 28, my role focused on UI development, unit testing, and integrating key features. The app was built using AngularJS, Ionic V1, Cordova, HTML5, and CSS3.
 
