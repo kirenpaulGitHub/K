@@ -8,77 +8,81 @@
 
 ## SUMMARY
 
-Experienced Full Stack Developer with over 12 years in creating secure and scalable mobile and web applications across domains like banking and e-learning. Proficient in team leadership, project delivery, and working with technologies such as React Native, Ionic, Angular, Spring Boot, and NodeJS. Seeking to bring expertise to a collaborative team and drive impactful results.
+Full-Stack Developer with 12+ years of experience building high-performing, secure web and mobile applications for demanding sectors like banking and e-learning. Proven expertise in leading teams, delivering projects on time, and leveraging technologies like React Native, Ionic, Angular, Spring Boot, and NodeJS. Eager to contribute to innovative projects and collaborate with talented individuals to achieve impactful results.
 
 ## PROFESSIONAL EXPERIENCE
 
 ### Allianz Technology, Bangkok, Thailand
 
-**Expert Developer**  _Nov 2023 - Present (1 yr 2 mos)_
+**Expert Developer** _Nov 2023 - Present (1 yr 2 mos)_
 
 - Spearheaded the development of mobile (React Native) and web (Angular) applications with a Spring Boot backend.
-- Designed high-level solutions, executed unit testing, and managed sprint planning.
+- Achieved two performance bonuses and the Sprint Superstar award, as well as the Best Leader Pinnacle Award, in 2024.
+- As part of the agile transformationWe quickly adapted to organizational changes and achived great results.
+- We achieved 80% unit test coverage, mentored new team members.
+- Spearheaded the implementation of accessibility features in our Angular web application.
+- Contributed to high-level design and deployment support.
 
-**Senior Developer**  _Aug 2020 - Feb 2024 (3 yrs 7 mos)_
+**Senior Developer** _Aug 2020 - Feb 2024 (3 yrs 7 mos)_
 
-- Led the development of scalable mobile and web applications.
-- Integrated backend services and optimized cloud deployment strategies.
-- Enhanced application reliability by streamlining deployment pipelines.
-- Gained hands-on experience with Kubernetes deployment using Helm charts for seamless production rollouts.
+- Led the development and delivery of high-performing, scalable mobile and web applications.
+- Gained hands-on experience with Kubernetes deployments using Helm charts, achieving zero-downtime deployments and significantly improving delivery efficiency.
+- Collaborated effectively with cross-functional teams to ensure timely project delivery and exceed stakeholder expectations.
+- Implemented automated build using Fastlane and release pipelines for Android and iOS packages, resulting in a significant reduction in time-to-market.
 
 ### TMB Bank PCL (Arahant (Thailand) CO. LTD), Bangkok, Thailand
 
-**Senior Developer**  _Aug 2019 - Jun 2020 (11 mos)_
+**Senior Developer** _Aug 2019 - Jun 2020 (11 mos)_
 
 - Designed and implemented the user interface for a financial mobile application using AngularJS and Ionic.
 - Conducted unit testing and participated in sprint planning for feature releases.
 
 ### MobME Wireless Solutions Limited, Ernakulam, India
 
-**Development Team Lead**  _Sep 2018 - Aug 2019 (1 yr)_
+**Engineering Team Lead** _Sep 2018 - Aug 2019 (1 yr)_
 
-- Managed a team developing retail and corporate banking applications, along with mobile passbook solutions using IBM Mobile First, Ruby on Rails, and Sencha Touch.
-- Oversaw project and sprint planning activities.
+- Managed and mentored a team of 9 developers in the successful delivery of retail and corporate banking applications, including mobile passbook solutions.
+- Leveraged IBM Mobile First, Ruby on Rails, and Sencha Touch to build robust and scalable applications.
+- Successfully led the project handover to the client, including comprehensive team training and knowledge transfer.
 
-**Engineering Lead**  _Sep 2018 - Aug 2019 (1 yr)_
+**Senior Software Developer** _Oct 2017 - Aug 2019 (1 yr 11 mos)_
 
-- Developed hybrid mobile applications for financial organizations, employing IBM Mobile First and Sencha Touch.
-- Led technical discussions and release planning.
+- Designed and developed Compaz, an in-house product for customer behavior analysis, utilizing NodeJS, MongoDB, and ReactJS.
+- Optimized MongoDB queries, resulting in a 20-40% improvement in API turnaround time.
+- Successfully conducted API design, deployment, and sprint planning activities.
 
-**Senior Software Developer**  _Oct 2017 - Aug 2019 (1 yr 11 mos)_
+**Team Lead** _Apr 2016 - Aug 2019 (3 yrs 5 mos)_
 
-- Designed and built Compaz, an in-house product for customer behavior analysis using NodeJS, MongoDB, and ReactJS.
-- Conducted API design and deployment while managing sprint planning.
+- Led the development and delivery of high-quality hybrid mobile applications using IBM Mobile First and Sencha Touch.
+- Led technical discussions and release planning, successfully integrating third-party SDKs such as scan-to-pay, UPI and travel ticket booking.
+- Consistently met all project deadlines, ensuring timely and successful releases.
 
-**Team Lead**  _Apr 2016 - Aug 2019 (3 yrs 5 mos)_
+**Hybrid Mobile Application Developer** _Apr 2015 - Apr 2016 (1 yr 1 mo)_
 
-- Led the development of hybrid mobile applications using IBM Mobile First and Sencha Touch.
-- Collaborated with cross-functional teams for timely project delivery.
+- Successfully delivered high-quality hybrid mobile banking applications across Windows, Android, and iOS platforms utilizing IBM Mobile First and Sencha Touch.
+- Played a key role in the successful development of the company's first hybrid mobile applications, leveraging my prior JavaScript expertise.
+- Developed applications from scratch using best practices and methodologies.
 
-**Hybrid Mobile Application Developer**  _Apr 2015 - Apr 2016 (1 yr 1 mo)_
+**Windows Phone Developer** _Nov 2014 - Apr 2015 (6 mos)_
 
-- Delivered hybrid mobile banking applications across Windows, Android, and iOS platforms.
-- Implemented core banking solutions with IBM Mobile First and Sencha Touch.
-
-**Windows Phone Developer**  _Nov 2014 - Apr 2015 (6 mos)_
-
-- Developed Windows Phone 8 applications in C# and XAML, including a mobile passbook app for various banks.
+- Developed high-quality Windows Phone 8 applications in C# and XAML, including a mobile passbook app for various banks.
+- Successfully delivered customized passbook clones for different banks within 4-6 weeks, meeting unique UI/UX requirements for each client.
 
 ### Cordiant Technologies, Ernakulam, India
 
-**Platform Engineer**  _May 2014 - Nov 2014 (7 mos)_
+**Platform Engineer** _May 2014 - Nov 2014 (7 mos)_
 
-- Developed Windows 8 and Windows Phone 8 applications using HTML5, JavaScript, and WinJS.
-- Contributed to platform enhancements and feature delivery.
+- Developed Windows 8 and Windows Phone 8 applications utilizing HTML5, JavaScript, and WinJS.
+- Contributed significantly to platform enhancements and feature delivery.
 
-**Software Engineer**  _Apr 2012 - Sep 2013 (1 yr 6 mos)_
+**Software Engineer** _Apr 2012 - Sep 2013 (1 yr 6 mos)_
 
-- Designed and developed iPad applications using Objective-C.
-- Delivered Cordiant's first Apple Store application.
+- Designed and developed native iPad applications using Objective-C, leveraging Core Data and integrating with AWS services.
+- Successfully delivered Cordiant's first Apple Store application.
 
-**Trainee Software Engineer**  _Oct 2011 - Mar 2012 (6 mos)_
+**Trainee Software Engineer** _Oct 2011 - Mar 2012 (6 mos)_
 
-- Built sample iPhone/iPad applications while learning Objective-C and MVC architecture.
+- Developed sample iPhone/iPad applications while gaining proficiency in Objective-C and MVC architecture.
 
 ## SKILLS & ABILITIES
 
