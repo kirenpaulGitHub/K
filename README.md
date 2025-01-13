@@ -107,41 +107,24 @@ Full-Stack Developer with 12+ years of experience building high-performing, secu
 
 ## PROJECTS
 
-### Hexalite Application
+ **Hexalite Application :** This core platform, developed over 4 years and 3 months with a team of 24, supports Allianz Group's roadside assistance services. I contributed to high-level design, backlog creation, UI design, and the migration of services to Australian servers. Technologies used included Angular, React Native, and Spring Boot.
 
-This core platform, developed over 4 years and 3 months with a team of 24, supports Allianz Group's roadside assistance services. I contributed to high-level design, backlog creation, UI design, and the migration of services to Australian servers. Technologies used included Angular, React Native, and Spring Boot.
+- **ME by TMB (Thai Military Bank) :** A hybrid mobile banking app for iOS and Android, designed to provide secure and user-friendly financial management. Created over 10 months with a team of 28, my role focused on UI development, unit testing, and integrating key features. The app was built using AngularJS, Ionic V1, Cordova, HTML5, and CSS3.
 
-### ME by TMB (Thai Military Bank)
+- **FedMobile (Federal Bank) :** This secure hybrid banking app, compatible with iOS, Android, and Windows Phone, was engineered over four years with a team of three. As team lead, I implemented advanced security features, reviewed code, and ensured smooth deployment. Key technologies included Sencha Touch, IBM Mobile First, Cordova, HTML5, and CSS3.
 
-A hybrid mobile banking app for iOS and Android, designed to provide secure and user-friendly financial management. Created over 10 months with a team of 28, my role focused on UI development, unit testing, and integrating key features. The app was built using AngularJS, Ionic V1, Cordova, HTML5, and CSS3.
+- **FedCorp (Federal Bank) :** FedCorp is a corporate banking solution encompassing customer and admin web interfaces, APIs, and hybrid mobile apps for iOS and Android. Created in a year with a team of six, I led the architectural design, UI development, and managed version releases. The project leveraged Backbone, Marionette, Cordova, Framework7, HTML5, CSS3, Ruby, nginx, and IBM Mobile First.
 
-### FedMobile (Federal Bank)
+- **FedBook :** A mobile passbook app for Federal Bank customers, completed as a solo project in just one month. I performed the system study and built the application using LINQ to SQL, XAML, and C#.
 
-This secure hybrid banking app, compatible with iOS, Android, and Windows Phone, was engineered over four years with a team of three. As team lead, I implemented advanced security features, reviewed code, and ensured smooth deployment. Key technologies included Sencha Touch, IBM Mobile First, Cordova, HTML5, and CSS3.
+- **mPassbook :** This Windows Phone app, designed for users to access all linked accounts via a registered mobile number, was completed in 1–2 months per version. As the sole developer, I managed the system study and constructed the application using LINQ to SQL, XAML, and C#.
 
-### FedCorp (Federal Bank)
+- **Cordiant Learn :** This 14-month project resulted in a Windows 8 Store app providing a cloud-based educational platform. In a team of three, I handled system study, coding, testing, and app submission to the Windows Store. Technologies included WinJS, HTML5, CSS3, and IndexedDB.
 
-FedCorp is a corporate banking solution encompassing customer and admin web interfaces, APIs, and hybrid mobile apps for iOS and Android. Created in a year with a team of six, I led the architectural design, UI development, and managed version releases. The project leveraged Backbone, Marionette, Cordova, Framework7, HTML5, CSS3, Ruby, nginx, and IBM Mobile First.
+- **Cordiant :** Designed as a Windows Phone app for enhancing individual and organizational performance, this eight-month project was created by a three-person team. My role involved conducting a system study and implementing key features using XAML and C#.
 
-### FedBook
+- **CMDN Cricket :** A cricket scorekeeping app for iPad, developed in nine months by a two-member team. I carried out system studies and was responsible for implementing the application using Core Data and Objective-C.
 
-A mobile passbook app for Federal Bank customers, completed as a solo project in just one month. I performed the system study and built the application using LINQ to SQL, XAML, and C#.
-
-### mPassbook
-
-This Windows Phone app, designed for users to access all linked accounts via a registered mobile number, was completed in 1–2 months per version. As the sole developer, I managed the system study and constructed the application using LINQ to SQL, XAML, and C#.
-
-### Cordiant Learn
-
-This 14-month project resulted in a Windows 8 Store app providing a cloud-based educational platform. In a team of three, I handled system study, coding, testing, and app submission to the Windows Store. Technologies included WinJS, HTML5, CSS3, and IndexedDB.
-
-### Cordiant
-
-Designed as a Windows Phone app for enhancing individual and organizational performance, this eight-month project was created by a three-person team. My role involved conducting a system study and implementing key features using XAML and C#.
-
-### CMDN Cricket
-
-A cricket scorekeeping app for iPad, developed in nine months by a two-member team. I carried out system studies and was responsible for implementing the application using Core Data and Objective-C.
 
 ## AWARDS AND ACHIEVEMENTS
 
