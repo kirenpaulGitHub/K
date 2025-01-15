@@ -1,8 +1,9 @@
 # Kiren Paul
 
-**Expert Full Stack Developer** | Allianz Technology (Thailand)
+**Full Stack Developer** | **Senior Associate** | Allianz Technology (Thailand)
 
-Email: [kirenpaul@outlook.com](https://www.google.com/url?sa=E&source=gmail&q=mailto:kirenpaul@outlook.com), Phone: +66-84-020-0285, GitHub: [paulkiren](https://github.com/paulkiren), LinkedIn: [kirenpaul](https://www.linkedin.com/in/kirenpaul/)
+Email: [kiren.paul@outlook.com](mailto:kiren.paul@outlook.com) Phone: [+66-84-020-0285](tel:+66-84-020-0285)
+LinkedIn: [kirenpaul](https://www.linkedin.com/in/kirenpaul/) GitHub: [paulkiren](https://github.com/paulkiren)
 
 ## Summary
 
@@ -107,8 +108,13 @@ Highly skilled Full-Stack Developer with 12+ years of experience designing, deve
 
 ## Education
 
-- **Master of Computer Application (MCA)**, MG University, Kottayam | 2008 - 2011 | 69.95%
-- **Bachelor of Science in Computer Maintenance & Electronics**, MG University, Kottayam | 2005 - 2008 | 66.50%
+- **Master of Computer Applications (MCA)**  
+  MG University, Kottayam | 2008 - 2011  
+  Grade: 69.95%
+
+- **Bachelor of Science (BSc.) in Computer Maintenance & Electronics**  
+  MG University, Kottayam | 2005 - 2008  
+  Grade: 66.50%
 
 ## Projects
 
@@ -136,6 +142,7 @@ Highly skilled Full-Stack Developer with 12+ years of experience designing, deve
   - Recognized with the Sprint Superstar Award by Allianz Partners for outstanding dedication and contributions.
   - Received the Best Leader Pinnacle Award from Allianz Technology Thailand.
 - **2023:**
+  - Promoted to Senior Associate based on a rigorous evaluation conducted by the Allianz Technology Global Team.
   - Secured first place in the hackathon hosted by Allianz Technology Thailand.
 - **2022:**
   - Honored with the Best Asset Pinnacle Award by Allianz Technology Thailand.
