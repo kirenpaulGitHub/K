@@ -1,12 +1,12 @@
 # Kiren Paul
 
-**Expert Full Stack Developer** Allianz Technology (Thailand)
+**Expert Full Stack Developer** | Allianz Technology (Thailand)
 
 Email: [kirenpaul@outlook.com](https://www.google.com/url?sa=E&source=gmail&q=mailto:kirenpaul@outlook.com), Phone: +66-84-020-0285, GitHub: [paulkiren](https://github.com/paulkiren), LinkedIn: [kirenpaul](https://www.linkedin.com/in/kirenpaul/)
 
 ## Summary
 
-Highly motivated and results-oriented Full-Stack Developer with 12+ years of experience designing, developing, and deploying secure, high-performing web and mobile applications for demanding sectors like banking and e-learning. Proven ability to lead teams, deliver projects on time and budget, and leverage a wide range of technologies including React Native, Ionic, Angular, Spring Boot, and Node.js. Eager to contribute to innovative projects and collaborate with talented individuals to achieve impactful results.
+Highly skilled Full-Stack Developer with 12+ years of experience designing, developing, and deploying secure, high-performing web and mobile applications for demanding sectors like banking insurance and e-learning. Proven ability to lead teams, deliver projects on time and budget, and leverage a wide range of technologies including React Native, Ionic, Angular, Spring Boot, and Node.js. Awarded the "Sprint Superstar" and "Best Leader" accolades at Allianz Technology for exceptional contributions in 2024.
 
 ## Professional Experience
 
@@ -124,7 +124,7 @@ Highly motivated and results-oriented Full-Stack Developer with 12+ years of exp
 
 - **mPassbook:** This Windows Phone app, designed for users to access all linked accounts via a registered mobile number, was completed in 1-2 months per version. As the sole developer, I managed the system study and constructed the application using LINQ to SQL, XAML, and C#.
 
-- **Cordiant Learn:** This 14-month project resulted in a Windows 8 Store app providing a cloud-based educational platform. In a team of three, I handled system study, coding, testing, and app submission to the Windows Store. Technologies included WinJS, HTML5, CSS3, and IndexedDB
+- **Cordiant Learn:** This 14-month project resulted in a Windows 8 Store app providing a cloud-based educational platform. In a team of three, I handled system study, coding, testing, and app submission to the Windows Store. Technologies included WinJS, HTML5, CSS3, and IndexedDB.
 
 - **Cordiant:** Designed as a Windows Phone app for enhancing individual and organizational performance, this eight-month project was created by a three-person team. My role involved conducting a system study and implementing key features using XAML and C#.
 
@@ -140,7 +140,9 @@ Highly motivated and results-oriented Full-Stack Developer with 12+ years of exp
 - **2022:**
   - Honored with the Best Asset Pinnacle Award by Allianz Technology Thailand.
 - **2007-2008:**
+
   - Earned the titles of "Best Cadet" (2007) and "Most Obedient Cadet" (2008) from U.C. College NCC Unit.
+
 - **Other:**
   - Accomplished National Cadet Corps (NCC) A, B, and C certifications.
   - Achieved top position in the high school quiz competition hosted by Labor India.
