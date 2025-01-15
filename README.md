@@ -1,6 +1,6 @@
 # Kiren Paul
 
-**Full Stack Developer** | **Senior Associate** | Allianz Technology (Thailand)
+**Full Stack Developer** \| **Senior Associate** \| Allianz Technology (Thailand)
 
 Email: [kiren.paul@outlook.com](mailto:kiren.paul@outlook.com) Phone: [+66-84-020-0285](tel:+66-84-020-0285)
 LinkedIn: [kirenpaul](https://www.linkedin.com/in/kirenpaul/) GitHub: [paulkiren](https://github.com/paulkiren)
