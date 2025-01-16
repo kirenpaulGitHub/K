@@ -2,7 +2,7 @@
 
 **Expert Full Stack Developer** \| Senior Associate \| Allianz Technology, Thailand
 
-**Email:** [kiren.paul@outlook.com](mailto:kiren.paul@outlook.com) **Phone:** [+66-84-020-0285](tel:+66-84-020-0285)
+**Email:** [kiren.paul@outlook.com](mailto:kiren.paul@outlook.com) **Phone:** [+66-84-020-0285](tel:+66-84-020-0285)  
 **LinkedIn:** [kirenpaul](https://www.linkedin.com/in/kirenpaul/) **GitHub:** [paulkiren](https://github.com/paulkiren)
 
 ## Summary
@@ -17,12 +17,10 @@ Highly skilled Full-Stack Developer with 12+ years of experience designing, deve
 
   - Spearheaded the development of mobile (React Native) and web (Angular) applications with a Spring Boot backend.
   - Achieved two performance bonuses and prestigious awards in 2024: Sprint Superstar Award and Best Leader Pinnacle Award.
-  - Championed agile transformation, leading the team to adapt to organizational changes and achieve significant results.
   - Increased unit test coverage to 80%, mentored new team members, and spearheaded accessibility feature implementation in the Angular web application.
   - Contributed to high-level design and deployment support.
 
 - **Senior Developer** (August 2020 - February 2024)
-
   - Led the development and delivery of high-performing, scalable mobile and web applications.
   - Gained hands-on experience with Kubernetes deployments using Helm charts, achieving zero-downtime deployments and significantly improving delivery efficiency.
   - Collaborated effectively with cross-functional teams to ensure timely project delivery and exceed stakeholder expectations.
@@ -31,7 +29,6 @@ Highly skilled Full-Stack Developer with 12+ years of experience designing, deve
 ### TMB Bank PCL (Arahant (Thailand) CO. LTD), Bangkok, Thailand
 
 - **Senior Developer** (August 2019 - June 2020)
-
   - Designed and implemented the user interface for a financial mobile application using AngularJS and Ionic.
   - Conducted unit testing and participated in sprint planning for feature releases.
 
@@ -62,7 +59,6 @@ Highly skilled Full-Stack Developer with 12+ years of experience designing, deve
   - Developed applications from scratch using best practices and methodologies.
 
 - **Windows Phone Developer** (November 2014 - April 2015)
-
   - Developed high-quality Windows Phone 8 applications in C\# and XAML, including a mobile passbook app for various banks.
   - Successfully delivered customized passbook clones for different banks within 4-6 weeks, meeting unique UI/UX requirements for each client.
 
@@ -79,21 +75,20 @@ Highly skilled Full-Stack Developer with 12+ years of experience designing, deve
   - Successfully delivered Cordiant's first Apple Store application.
 
 - **Trainee Software Engineer** (October 2011 - March 2012)
-
   - Developed sample iPhone/iPad applications while gaining proficiency in Objective-C and MVC architecture.
 
 ## Skills
 
-- **Mobile Development:** Proficient in React Native, Ionic, AngularJS, Sencha Touch, and IBM Worklight. Experienced in developing high-quality, cross-platform mobile applications for iOS and Android.
-- **Full-Stack Development:** Strong foundation in JavaScript, TypeScript, HTML5, CSS, Node.js, MongoDB, and Java Spring Boot. Proven ability to design, develop, and deploy full-stack applications.
-- **Cloud & DevOps:** Expertise in AWS services, including cloud infrastructure management, containerization (Docker, Kubernetes), and infrastructure-as-code tools like Terraform and Helm Charts.
-- **Backend Development:** Experience with RESTful APIs, microservices architecture, and NoSQL databases (MongoDB, AWS DynamoDB).
-- **Frontend Development:** Proficient in modern front-end technologies, including JavaScript frameworks, CSS preprocessors, and responsive design principles.
-- **Testing & Quality Assurance:** Experience with unit testing frameworks (Jest, Mocha, Chai), Test-Driven Development (TDD), and continuous integration/continuous delivery (CI/CD) pipelines.
-- **Database Management:** Working knowledge of SQL databases (MS SQL Server, SQLite) and NoSQL databases (MongoDB, AWS DynamoDB), including data modeling and query optimization.
-- **Agile Methodologies:** Experience working in Agile environments, including Scrum and Kanban, with strong collaboration and communication skills.
-- **Tools:** Proficient in using tools like Jira, TeamWorks, and Git for project management, code version control, and collaboration.
-- **Domain Expertise:** Deep understanding of business requirements and industry best practices within the banking, insurance, and e-learning domains.
+- **Mobile Development:** Expertise in React Native, Ionic, AngularJS, Sencha Touch, and IBM Worklight. Delivered high-quality cross-platform apps for iOS and Android.
+- **Full-Stack Development:** Strong in JavaScript, TypeScript, HTML5, CSS, Node.js, MongoDB, and Java Spring Boot. Proficient in building scalable, full-stack applications.
+- **Cloud & DevOps:** Skilled in AWS, Docker, Kubernetes, Terraform, and Helm for cloud infrastructure, containerization, and automation.
+- **Backend Development:** Proficient in RESTful APIs, microservices, and NoSQL databases (MongoDB, AWS DynamoDB).
+- **Frontend Development:** Strong in modern JS frameworks and responsive design, delivering user-centric, dynamic web experiences.
+- **Testing & Quality Assurance:** Extensive experience with TDD (Jest, Mocha, Chai), CI/CD pipelines, and automated testing (Detox, Fastlane) for React Native.
+- **Database Management:** Experienced with SQL (MS SQL Server, SQLite) and NoSQL (MongoDB, DynamoDB) databases, query optimization, and log analysis (Kibana, Elasticsearch).
+- **Agile Methodologies:** Solid experience in Scrum and Kanban, ensuring efficient project delivery and team collaboration.
+- **Tools:** Proficient in Jira, Git, and TeamWorks for project management, version control, and team coordination.
+- **Domain Expertise:** Deep knowledge in banking, insurance, and e-learning domains, aligning tech solutions with business goals.
 
 ### Soft Skills
 
@@ -138,34 +133,31 @@ Highly skilled Full-Stack Developer with 12+ years of experience designing, deve
 
 ## Awards and Achievements
 
+### Professional Recognition
+
 - **2024:**
-  - Recognized with the Sprint Superstar Award by Allianz Partners for outstanding dedication and contributions.
-  - Received the Best Leader Pinnacle Award from Allianz Technology Thailand.
+  - Recognized with the **Sprint Superstar Award** by Allianz Partners for outstanding dedication and contributions.
+  - Received the **Best Leader Pinnacle Award** from Allianz Technology Thailand.
 - **2023:**
-  - Promoted to Senior Associate based on a rigorous evaluation conducted by the Allianz Technology Global Team.
+  - Promoted to **Senior Associate** based on a rigorous evaluation conducted by the Allianz Technology Global Team.
   - Secured first place in the hackathon hosted by Allianz Technology Thailand.
+  - Successfully completed a **Half Marathon** (21 km) in May 2023 at the **Rama 8 Half Marathon Run** event held in Bangkok.
 - **2022:**
-  - Honored with the Best Asset Pinnacle Award by Allianz Technology Thailand.
-- **2007-2008:**
+  - Honored with the **Best Asset Pinnacle Award** by Allianz Technology Thailand.
+- **2007--2008:**
+  - Earned the titles of **Best Cadet** (2007) and **Most Obedient Cadet** (2008) from U.C. College NCC Unit.
 
-  - Earned the titles of "Best Cadet" (2007) and "Most Obedient Cadet" (2008) from U.C. College NCC Unit.
+### Conferences and Workshops
 
-- **Other:**
-  - Accomplished National Cadet Corps (NCC) A, B, and C certifications.
-  - Achieved top position in the high school quiz competition hosted by Labor India.
-  - Successfully qualified for the entrance exam for Jawahar Navodaya Vidyalaya, Ernakulam, during the 5th standard.
+- Attended **AWS Summit 2012 India**, **Sencha Road Show 2015**, **Future Decoded 2017** (Microsoft), **JSFOO 2017**, and the **Thailand GraphQL Workshop** hosted by Agoda in 2023.
+- Participated in workshops on Embedded Systems design and a Chat-Bot Hackathon.
 
-## Professional Development
+### Additional Achievements
 
-- **Conferences & Workshops:**
-  - Attended AWS Summit 2012 India, Sencha Road Show 2015, Future Decoded 2017 (Microsoft), JSFOO 2017, and the Thailand GraphQL workshop hosted by Agoda in 2023.
-  - Participated in workshops on Embedded Systems design and a Chat-Bot Hackathon.
-- **Training & Certifications:**
-  - Completed practical training in PC assembly and OS installation at Nest Systems.
-  - Participated in Annual Training Camps conducted by the National Cadet Corps (NCC).
-  - Completed the Sahyadri Cycle Challenge 2007 (co-hosted by NCC and Kalypso Adventures).
-  - Engaged in the Army Attachment Camp with NCC and the 11 Madras Regiment.
-- **Other:**
-  - Delivered academic seminars on various technical topics.
-  - Actively contributed to National Cadet Corps (NCC) activities and initiatives.
-  - Volunteered for multiple events and competitions, demonstrating strong organizational skills.
+- Volunteered for multiple events and competitions, demonstrating strong organizational skills.
+- Led the college team in **Annual Training Camps** conducted by the National Cadet Corps (NCC) and secured the silver medal for Best Team.
+- Successfully completed the **Sahyadri Cycle Challenge**, a 480 km cycling expedition over 7 days in 2007, co-hosted by the NCC and Kalypso Adventures.
+- Engaged in the **Army Attachment Camp** with NCC and the 11 Madras Regiment.
+- Accomplished **National Cadet Corps (NCC)** A, B, and C certifications.
+- Achieved top position in the high school quiz competition hosted by Labor India.
+- Successfully qualified for the entrance exam for Jawahar Navodaya Vidyalaya, Ernakulam, during the 5th standard.
