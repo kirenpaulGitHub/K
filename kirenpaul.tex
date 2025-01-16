@@ -1,0 +1,395 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Welcome to Overleaf --- just edit your LaTeX on the left,
+% and we'll compile it for you on the right. If you open the
+% 'Share' menu, you can invite other users to edit at the same
+% time. See www.overleaf.com/learn for more info. Enjoy!
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[10pt, letterpaper]{article}
+
+% Packages:
+\usepackage[
+    ignoreheadfoot,
+    top=2cm,
+    bottom=2cm,
+    left=2cm,
+    right=2cm,
+    footskip=1.0cm
+]{geometry}
+\usepackage[explicit]{titlesec}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage[dvipsnames]{xcolor}
+\definecolor{primaryColor}{RGB}{0, 79, 144}
+\definecolor{titleColor}{RGB}{0,0,0}
+\usepackage{enumitem}
+\usepackage{fontawesome5}
+\usepackage{amsmath}
+\usepackage[
+    pdftitle={Kiren Paul's CV},
+    pdfauthor={Kiren Paul},
+    pdfcreator={LaTeX with RenderCV},
+    colorlinks=true,
+    urlcolor=primaryColor
+]{hyperref}
+\usepackage[pscoord]{eso-pic}
+\usepackage{calc}
+\usepackage{bookmark}
+\usepackage{lastpage}
+\usepackage{changepage}
+\usepackage{paracol}
+\usepackage{ifthen}
+\usepackage{needspace}
+\usepackage{iftex}
+
+\ifPDFTeX
+    \input{glyphtounicode}
+    \pdfgentounicode=1
+    \usepackage[T1]{fontenc}
+    \usepackage[utf8]{inputenc}
+    \usepackage{lmodern}
+\fi
+
+\usepackage[default, type1]{sourcesanspro}
+
+% Some settings:
+\AtBeginEnvironment{adjustwidth}{\partopsep0pt}
+\pagestyle{empty}
+\setcounter{secnumdepth}{0}
+\setlength{\parindent}{0pt}
+\setlength{\topskip}{0pt}
+\setlength{\columnsep}{0.15cm}
+\makeatletter
+\let\ps@customFooterStyle\ps@plain
+\patchcmd{\ps@customFooterStyle}{\thepage}{
+    \color{gray}\textit{\small Kiren Paul - Page \thepage{} of \pageref*{LastPage}}
+}{}{}
+\makeatother
+\pagestyle{customFooterStyle}
+
+\titleformat{\section}{
+    \needspace{4\baselineskip}
+    \Large\color{primaryColor}
+}{
+}{
+}{
+    \textbf{#1}\hspace{0.15cm}\titlerule[0.8pt]\hspace{-0.1cm}
+}[]
+
+\titlespacing{\section}{
+    -1pt
+}{
+    0.3cm
+}{
+    0.2cm
+}
+
+\newenvironment{highlights}{
+    \begin{itemize}[
+        topsep=0.10cm,
+        parsep=0.10cm,
+        partopsep=0pt,
+        itemsep=0pt,
+        leftmargin=0.4cm + 10pt
+    ]
+}{
+    \end{itemize}
+}
+
+\newenvironment{highlightsforbulletentries}{
+    \begin{itemize}[
+        topsep=0.10cm,
+        parsep=0.10cm,
+        partopsep=0pt,
+        itemsep=0pt,
+        leftmargin=10pt
+    ]
+}{
+    \end{itemize}
+}
+
+\newenvironment{onecolentry}{
+    \begin{adjustwidth}{
+        0.2cm + 0.00001cm
+    }{
+        0.2cm + 0.00001cm
+    }
+}{
+    \end{adjustwidth}
+}
+
+\newenvironment{twocolentry}[2][]{
+    \onecolentry
+    \def\secondColumn{#2}
+    \setcolumnwidth{\fill, 4.5cm}
+    \begin{paracol}{2}
+}{
+    \switchcolumn \raggedleft \secondColumn
+    \end{paracol}
+    \endonecolentry
+}
+
+\newenvironment{threecolentry}[3][]{
+    \onecolentry
+    \def\thirdColumn{#3}
+    \setcolumnwidth{1cm, \fill, 4.5cm}
+    \begin{paracol}{3}
+    {\raggedright #2} \switchcolumn
+}{
+    \switchcolumn \raggedleft \thirdColumn
+    \end{paracol}
+    \endonecolentry
+}
+
+\newenvironment{header}{
+    \setlength{\topsep}{0pt}\par\kern\topsep\centering\color{primaryColor}\linespread{1.5}
+}{
+    \par\kern\topsep
+}
+\newenvironment{nameHeader}{%
+}{}
+\newcommand{\placelastupdatedtext}{%
+  \AddToShipoutPictureFG*{%
+    \put(
+        \LenToUnit{\paperwidth-2cm-0.2cm+0.05cm},
+        \LenToUnit{\paperheight-1.0cm}
+    ){\vtop{{\null}\makebox[0pt][c]{
+        \small\color{gray}\textit{Last updated on \today}\hspace{\widthof{Last updated on \today}}
+    }}}%
+  }%
+}
+
+\let\hrefWithoutArrow\href
+
+\renewcommand{\href}[2]{\hrefWithoutArrow{#1}{\ifthenelse{\equal{#2}{}}{ }{#2 }\raisebox{.15ex}{\footnotesize \faExternalLink*}}}
+
+\begin{document}
+
+\newcommand{\AND}{\unskip
+\cleaders\copy\ANDbox\hskip\wd\ANDbox
+\ignorespaces
+}
+\newsavebox\ANDbox
+\sbox\ANDbox{}
+
+\placelastupdatedtext
+\begin{header}
+\begin{nameHeader}
+\fontsize{26pt}{26pt}
+\color{titleColor}
+\textbf{Kiren Paul} \\
+\vspace{0.2cm}
+\noindent Expert Full Stack Developer | Senior Associate | Allianz Technology, Thailand
+\end{nameHeader}
+\vspace{0.2cm}
+
+\normalsize
+\mbox{{\footnotesize\faMapMarker*}\hspace*{0.13cm}Bangkok}%
+\kern 0.25cm%
+\AND%
+\kern 0.25cm%
+\mbox{\hrefWithoutArrow{mailto:kiren.paul@outlook.com}{{\footnotesize\faEnvelope[regular]}\hspace*{0.13cm}kiren.paul@outlook.com}}%
+\kern 0.25cm%
+\AND%
+\kern 0.25cm%
+\mbox{\hrefWithoutArrow{tel:+66-840-200-285}{{\footnotesize\faPhone*}\hspace*{0.13cm}0840 200 285}}%
+\kern 0.25cm%
+\AND%
+\kern 0.25cm%
+\mbox{\hrefWithoutArrow{https://paulkiren.github.io}{{\footnotesize\faLink}\hspace*{0.13cm}paulkiren.github.io}}%
+\kern 0.25cm%
+\AND%
+\kern 0.25cm%
+\mbox{\hrefWithoutArrow{https://www.linkedin.com/in/kirenpaul/}{{\footnotesize\faLinkedinIn}\hspace*{0.13cm}kirenpaul}}%
+\kern 0.25cm%
+\AND%
+\kern 0.25cm%
+\mbox{\hrefWithoutArrow{https://github.com/paulkiren}{{\footnotesize\faGithub}\hspace*{0.13cm}paulkiren}}%
+\end{header}
+
+\vspace{0.3cm - 0.3cm}
+
+\section*{Summary}
+\begin{onecolentry}
+    Highly skilled Full-Stack Developer with 12+ years of experience designing, developing, and deploying secure, high-performing web and mobile applications for demanding sectors like banking, insurance, and e-learning. Proven ability to lead teams, deliver projects on time and budget, and leverage a wide range of technologies including React Native, Ionic, Angular, Spring Boot, and Node.js. Awarded the "Sprint Superstar" and "Best Leader" accolades at Allianz Technology for exceptional contributions in 2024.
+\end{onecolentry}
+
+\section*{Skills}
+
+\noindent \textbf{Mobile Development:} React Native, Ionic, AngularJS, Sencha Touch, IBM Worklight, Cross-platform iOS/Android apps.
+
+\noindent \textbf{Full-Stack Development:} JavaScript, TypeScript, HTML5, CSS, Node.js, MongoDB, Java Spring Boot, RESTful APIs, Microservices.
+
+\noindent \textbf{Cloud Technologies:} AWS, Docker, Kubernetes, Terraform, Helm, Cloud Infrastructure, Containerization, Automation.
+
+\noindent \textbf{Backend Development:} RESTful APIs, Microservices, NoSQL (MongoDB, DynamoDB), SQL (MS SQL, SQLite), Database Management, Query Optimization.
+
+\noindent \textbf{Frontend Development:} HTML5, CSS, JavaScript, React, Angular, Responsive Design, User-Centered Web Design.
+
+\noindent \textbf{Testing \& CI/CD:} TDD (Jest, Mocha, Chai), Detox, Fastlane, CI/CD Pipelines, Automated Testing, Quality Assurance.
+
+\noindent \textbf{Agile \& Project Management:} Scrum, Kanban, Jira, Git, TeamWorks, Version Control, Team Collaboration.
+
+\noindent \textbf{Database Management:} NoSQL Databases (MongoDB, DynamoDB), SQL Databases (MS SQL, SQLite), Log Analysis (Kibana, Elasticsearch).
+
+\noindent \textbf{Domain Expertise:} Banking, Insurance, E-learning, Business Technology Solutions, Digital Transformation.
+
+\section*{Soft Skills}
+
+\noindent \textbf{Leadership \& Mentorship:} Team Leadership, Junior Developer Mentorship, Collaboration, Knowledge Sharing.
+
+\noindent \textbf{Communication \& Collaboration:} Cross-functional Team Collaboration, Client Communication, Stakeholder Management, Team Coordination.
+
+\noindent \textbf{Problem-Solving \& Analytical Skills:} Technical Problem Solving, Root Cause Analysis, Complex Systems Troubleshooting.
+
+\noindent \textbf{Adaptability \& Resilience:} Agile Adaptation, Problem Solving Under Pressure, Thrive in Dynamic Environments.
+
+\noindent \textbf{Ownership \& Accountability:} Project Ownership, Time Management, Deadline Adherence, Quality Assurance.
+
+\noindent \textbf{Continuous Learning:} Lifelong Learning, Technology Trends, Skill Enhancement, Self-Motivated Learning.
+
+\noindent \textbf{Innovation \& Creativity:} Creative Solutions, Innovation in Technology, Process Improvement, System Optimization.
+
+\noindent \textbf{Teamwork \& Inclusivity:} Team Collaboration, Inclusive Work Culture, Conflict Resolution, Diverse Perspectives.
+
+\section*{Professional Experience}
+
+\subsection*{Allianz Technology, Bangkok, Thailand}
+
+\noindent \textbf{Expert Developer} (November 2023 - Present)
+\begin{highlights}
+    \item Spearheaded mobile (React Native) and web (Angular) application development with a Spring Boot back end, ensuring high performance and scalability.
+    \item Achieved two performance bonuses and prestigious awards in 2024: Sprint Superstar Award and Best Leader Pinnacle Award for exceptional contributions.
+    \item Increased unit test coverage to 80\%, driving higher code quality and reliability.
+    \item Mentored new team members, fostering skill growth and collaboration.
+    \item Spearheaded the implementation of accessibility features in the Angular web application, improving user inclusivity.
+    \item Contributed to high-level design decisions and supported deployment processes, ensuring smooth delivery.
+\end{highlights}
+
+\noindent \textbf{Senior Developer} (August 2020 - February 2024)
+\begin{highlights}
+    \item Led the development of scalable, high-performance mobile and web applications.
+    \item Gained hands-on experience with Kubernetes deployments using Helm charts, achieving zero-downtime deployments and reducing release cycles by 30\%.
+    \item Collaborated with cross-functional teams to deliver projects on time and surpass stakeholder expectations.
+    \item Implemented automated builds using Fastlane, streamlining release pipelines for Android and iOS packages, resulting in a 25\% faster time-to-market.
+\end{highlights}
+
+\subsection*{TMB Bank PCL (Arahant (Thailand) CO. LTD), Bangkok, Thailand}
+
+\noindent \textbf{Senior Developer} (August 2019 - June 2020)
+\begin{highlights}
+    \item Designed and implemented the user interface for a financial mobile application using AngularJS and Ionic, enhancing user experience.
+    \item Conducted unit testing and actively participated in sprint planning to align with feature release timelines.
+\end{highlights}
+
+\subsection*{MobME Wireless Solutions Limited, Ernakulam, India}
+
+\noindent \textbf{Engineering Team Lead} (September 2018 - August 2019)
+\begin{highlights}
+    \item Managed and mentored a team of 9 developers, successfully delivering retail and corporate banking applications, including mobile passbook solutions.
+    \item Utilized IBM Mobile First, Ruby on Rails, and Sencha Touch to build robust, scalable applications.
+    \item Led the successful project handover to clients, including detailed team training and knowledge transfer.
+\end{highlights}
+
+\noindent \textbf{Senior Software Developer} (October 2017 - August 2018)
+\begin{highlights}
+    \item Designed and developed Compaz, an in-house product for customer behavior analysis, using NodeJS, MongoDB, and ReactJS.
+    \item Optimized MongoDB queries, improving API turnaround time by 20-40\%.
+    \item Led API design, deployment, and sprint planning to ensure effective delivery.
+\end{highlights}
+
+\noindent \textbf{Hybrid Mobile Application Developer} (April 2015 - September 2017)
+\begin{highlights}
+    \item Delivered high-quality hybrid mobile banking applications for Windows, Android, and iOS platforms using IBM Mobile First and Sencha Touch.
+    \item Played a key role in the development of the company's first hybrid mobile applications, leveraging JavaScript expertise.
+    \item Led technical discussions, integrated third-party SDKs (scan-to-pay, UPI, travel ticket booking), and ensured successful product releases.
+    \item Consistently met project deadlines and delivered high-quality mobile applications.
+\end{highlights}
+
+\noindent \textbf{Windows Phone Developer} (November 2014 - April 2015)
+\begin{highlights}
+    \item Developed high-quality Windows Phone 8 applications in C\# and XAML, including mobile passbook applications for various banks.
+    \item Delivered customized passbook solutions for multiple banks within 4-6 weeks, meeting each client’s unique UI/UX requirements.
+\end{highlights}
+
+\subsection*{Cordiant Technologies, Ernakulam, India}
+
+\noindent \textbf{Platform Engineer} (October 2013 - November 2014)
+\begin{highlights}
+    \item Developed Windows 8 and Windows Phone 8 applications using HTML5, JavaScript, and WinJS.
+    \item Contributed to platform enhancements and successful feature deliveries.
+\end{highlights}
+
+\noindent \textbf{Software Engineer} (April 2012 - September 2013)
+\begin{highlights}
+    \item Designed and developed native iPad applications using Objective-C and Core Data, integrating with AWS services.
+    \item Delivered Cordiant’s first Apple Store application, streamlining their product offering.
+\end{highlights}
+
+\noindent \textbf{Trainee Software Engineer} (October 2011 - March 2012)
+\begin{highlights}
+    \item Developed sample iPhone/iPad applications and gained proficiency in Objective-C and MVC architecture.
+\end{highlights}
+
+
+\section*{Education}
+\noindent \textbf{Master of Computer Applications (MCA)} \\
+MG University, Kottayam | 2008 - 2011 | Grade: 69.95\%
+
+\noindent \textbf{Bachelor of Science (BSc.) in Computer Maintenance \& Electronics} \\
+MG University, Kottayam | 2005 - 2008 | Grade: 66.50\%
+
+\section*{Projects}
+
+\noindent \textbf{Hexalite Application:} 
+This core platform, developed over 4 years and 3 months with a team of 24, supports Allianz Group's roadside assistance services. I contributed to high-level design, backlog creation, UI design, and the migration of services to Australian servers. Technologies used included \textbf{Angular, React Native, and Spring Boot}.
+
+\noindent \textbf{ME by TMB (Thai Military Bank):} 
+A hybrid mobile banking app for iOS and Android, designed to provide secure and user-friendly financial management. Created over 10 months with a team of 28, my role focused on UI development, unit testing, and integrating key features. The app was built using \textbf{AngularJS, Ionic V1, Cordova, HTML5, and CSS3}.
+
+\noindent \textbf{FedMobile (Federal Bank):} 
+This secure hybrid banking app, compatible with iOS, Android, and Windows Phone, was engineered over four years with a team of three. As team lead, I implemented advanced security features, reviewed code, and ensured smooth deployment. Key technologies included \textbf{Sencha Touch, IBM Mobile First, Cordova, HTML5, and CSS3}.
+
+\noindent \textbf{FedCorp (Federal Bank):} 
+FedCorp is a corporate banking solution encompassing customer and admin web interfaces, APIs, and hybrid mobile apps for iOS and Android. Created in a year with a team of six, I led the architectural design, UI development, and managed version releases. The project leveraged \textbf{Backbone, Marionette, Cordova, Framework7, HTML5, CSS3, Ruby, nginx, and IBM Mobile First}.
+
+\noindent \textbf{FedBook:} 
+A mobile passbook app for Federal Bank customers, completed as a solo project in just one month. I performed the system study and built the application using\textbf{ LINQ to SQL, XAML, and C\#}.
+
+\noindent \textbf{mPassbook:} 
+This Windows Phone app, designed for users to access all linked accounts via a registered mobile number, was completed in 1--2 months per version. As the sole developer, I managed the system study and constructed the application using \textbf{LINQ to SQL, XAML, and C\#}.
+
+\noindent \textbf{Cordiant Learn:} 
+This 14-month project resulted in a Windows 8 Store app providing a cloud-based educational platform. In a team of three, I handled system study, coding, testing, and app submission to the Windows Store. Technologies included \textbf{WinJS, HTML5, CSS3, and IndexedDB}.
+
+\noindent \textbf{Cordiant:} 
+Designed as a Windows Phone app for enhancing individual and organizational performance, this eight-month project was created by a three-person team. My role involved conducting a system study and implementing key features using\textbf{ XAML and C\#}.
+
+\noindent \textbf{CMDN Cricket:}  
+A cricket scorekeeping app for iPad, developed in nine months by a two-member team. I carried out system studies and was responsible for implementing the application using \textbf{Core Data and Objective-C}.
+
+\section*{Awards and Achievements}
+
+\begin{itemize}
+    \item \textbf{2024:} 
+        \begin{itemize}
+            \item Recognized with the \textbf{Sprint Superstar Award} by Allianz Partners for outstanding dedication and contributions.
+            \item Received the \textbf{Best Leader Pinnacle Award} from Allianz Technology Thailand.
+        \end{itemize}
+    \item \textbf{2023:}
+        \begin{itemize}
+            \item Promoted to \textbf{Senior Associate} based on a rigorous evaluation conducted by the Allianz Technology Global Team.
+            \item Secured first place in the hackathon hosted by Allianz Technology Thailand.
+            \item Successfully completed a \textbf{Half Marathon} (21 km) in May 2023 at the \textbf{Rama 8 Half Marathon Run} event held in Bangkok.
+        \end{itemize}
+    \item \textbf{2022:}
+        \begin{itemize}
+            \item Honored with the \textbf{Best Asset Pinnacle Award} by Allianz Technology Thailand.
+        \end{itemize}
+    \item \textbf{2007--2008:}
+        \begin{itemize}
+            \item Earned the titles of \textbf{Best Cadet} (2007) and \textbf{Most Obedient Cadet} (2008) from U.C. College NCC Unit.
+        \end{itemize}
+\end{itemize}
+\end{document}
